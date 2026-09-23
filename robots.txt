@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://altmash.com/sitemap.xml
