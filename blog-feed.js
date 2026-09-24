@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-09-25-how-to-build-a-brand-identity-that-sells-not-just-looks-pretty",
+    "date": "Sep 2026",
+    "title": "How to build a brand identity that sells, not just looks pretty",
+    "excerpt": "How to build a brand identity that sells, not just looks pretty — practical branding guidance from Altmash on building brands, systems, and growth that compound.",
+    "tag": "Branding",
+    "readTime": "6 min read",
+    "href": "/blog/2026-09-25-how-to-build-a-brand-identity-that-sells-not-just-looks-pretty/"
+  },
+  {
     "id": "2026-09-24-when-ugc-fails-product-offer-or-landing-page-mismatch",
     "date": "Sep 2026",
     "title": "When UGC fails: product, offer, or landing page mismatch",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Digital Marketing",
     "readTime": "6 min read",
     "href": "/blog/2026-09-24-channel-mix-for-indian-brands-when-organic-and-paid-should-work-together/"
-  },
-  {
-    "id": "2026-09-24-how-altmash-builds-wordpress-sites-that-marketing-teams-can-update",
-    "date": "Sep 2026",
-    "title": "How Altmash builds WordPress sites that marketing teams can update",
-    "excerpt": "How Altmash builds WordPress sites that marketing teams can update — practical wordpress development guidance from Altmash on building brands, systems, and growth that compound.",
-    "tag": "WordPress Development",
-    "readTime": "6 min read",
-    "href": "/blog/2026-09-24-how-altmash-builds-wordpress-sites-that-marketing-teams-can-update/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 9,
-  "total": 12,
+  "archiveCount": 10,
+  "total": 13,
   "viewMore": "/blog/#archive"
 };

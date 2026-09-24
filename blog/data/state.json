@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 0,
+  "categoryIndex": 1,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -12,7 +12,8 @@
     "Android app onboarding that matches your ad promise",
     "How Altmash builds WordPress sites that marketing teams can update",
     "Channel mix for Indian brands: when organic and paid should work together",
-    "When UGC fails: product, offer, or landing page mismatch"
+    "When UGC fails: product, offer, or landing page mismatch",
+    "How to build a brand identity that sells, not just looks pretty"
   ],
   "usedExamples": [
     "android-fintech",
@@ -38,7 +39,9 @@
     "b2b-saas",
     "tier2-salon",
     "meta-catalog",
-    "fashion-resale"
+    "fashion-resale",
+    "freelance-2020",
+    "russh-streetwear"
   ],
-  "lastRun": "2026-09-24"
+  "lastRun": "2026-09-25"
 }
