@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 1,
+  "categoryIndex": 2,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -13,7 +13,8 @@
     "How Altmash builds WordPress sites that marketing teams can update",
     "Channel mix for Indian brands: when organic and paid should work together",
     "When UGC fails: product, offer, or landing page mismatch",
-    "How to build a brand identity that sells, not just looks pretty"
+    "How to build a brand identity that sells, not just looks pretty",
+    "Agency vs freelancer: when founders should upgrade the model"
   ],
   "usedExamples": [
     "android-fintech",
@@ -41,7 +42,9 @@
     "meta-catalog",
     "fashion-resale",
     "freelance-2020",
-    "russh-streetwear"
+    "russh-streetwear",
+    "influencer-ugc-mix",
+    "trends-sole-fragrance"
   ],
-  "lastRun": "2026-09-25"
+  "lastRun": "2026-09-26"
 }

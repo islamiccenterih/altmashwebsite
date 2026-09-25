@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model",
+    "date": "Sep 2026",
+    "title": "Agency vs freelancer: when founders should upgrade the model",
+    "excerpt": "Agency vs freelancer: when founders should upgrade the model — practical agency guidance from Altmash on building brands, systems, and growth that compound.",
+    "tag": "Agency",
+    "readTime": "6 min read",
+    "href": "/blog/2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model/"
+  },
+  {
     "id": "2026-09-25-how-to-build-a-brand-identity-that-sells-not-just-looks-pretty",
     "date": "Sep 2026",
     "title": "How to build a brand identity that sells, not just looks pretty",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "UGC Ads",
     "readTime": "6 min read",
     "href": "/blog/2026-09-24-when-ugc-fails-product-offer-or-landing-page-mismatch/"
-  },
-  {
-    "id": "2026-09-24-channel-mix-for-indian-brands-when-organic-and-paid-should-work-together",
-    "date": "Sep 2026",
-    "title": "Channel mix for Indian brands: when organic and paid should work together",
-    "excerpt": "Channel mix for Indian brands: when organic and paid should work together — practical digital marketing guidance from Altmash on building brands, systems, and growth that compound.",
-    "tag": "Digital Marketing",
-    "readTime": "6 min read",
-    "href": "/blog/2026-09-24-channel-mix-for-indian-brands-when-organic-and-paid-should-work-together/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 10,
-  "total": 13,
+  "archiveCount": 11,
+  "total": 14,
   "viewMore": "/blog/#archive"
 };
