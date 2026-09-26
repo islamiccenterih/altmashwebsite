@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack",
+      "date": "Sep 2026",
+      "title": "Why your Meta pixel setup matters more than another ad account hack",
+      "excerpt": "Why your Meta pixel setup matters more than another ad account hack — practical meta ads guidance from Altmash on building brands, systems, and growth that compound.",
+      "tag": "Meta Ads",
+      "readTime": "6 min read",
+      "href": "/blog/2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack/"
+    },
+    {
       "id": "2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model",
       "date": "Sep 2026",
       "title": "Agency vs freelancer: when founders should upgrade the model",
@@ -17,18 +26,9 @@
       "tag": "Branding",
       "readTime": "6 min read",
       "href": "/blog/2026-09-25-how-to-build-a-brand-identity-that-sells-not-just-looks-pretty/"
-    },
-    {
-      "id": "2026-09-24-when-ugc-fails-product-offer-or-landing-page-mismatch",
-      "date": "Sep 2026",
-      "title": "When UGC fails: product, offer, or landing page mismatch",
-      "excerpt": "When UGC fails: product, offer, or landing page mismatch — practical ugc ads guidance from Altmash on building brands, systems, and growth that compound.",
-      "tag": "UGC Ads",
-      "readTime": "6 min read",
-      "href": "/blog/2026-09-24-when-ugc-fails-product-offer-or-landing-page-mismatch/"
     }
   ],
-  "archiveCount": 11,
-  "total": 14,
+  "archiveCount": 12,
+  "total": 15,
   "viewMore": "/blog/#archive"
 }

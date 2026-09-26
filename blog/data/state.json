@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 2,
+  "categoryIndex": 3,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -14,7 +14,8 @@
     "Channel mix for Indian brands: when organic and paid should work together",
     "When UGC fails: product, offer, or landing page mismatch",
     "How to build a brand identity that sells, not just looks pretty",
-    "Agency vs freelancer: when founders should upgrade the model"
+    "Agency vs freelancer: when founders should upgrade the model",
+    "Why your Meta pixel setup matters more than another ad account hack"
   ],
   "usedExamples": [
     "android-fintech",
@@ -44,7 +45,9 @@
     "freelance-2020",
     "russh-streetwear",
     "influencer-ugc-mix",
-    "trends-sole-fragrance"
+    "trends-sole-fragrance",
+    "thredsy-apparel-shoes",
+    "local-services-ads"
   ],
-  "lastRun": "2026-09-26"
+  "lastRun": "2026-09-27"
 }
