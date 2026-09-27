@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 3,
+  "categoryIndex": 4,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -15,7 +15,8 @@
     "When UGC fails: product, offer, or landing page mismatch",
     "How to build a brand identity that sells, not just looks pretty",
     "Agency vs freelancer: when founders should upgrade the model",
-    "Why your Meta pixel setup matters more than another ad account hack"
+    "Why your Meta pixel setup matters more than another ad account hack",
+    "Performance Max for ecommerce: asset groups without the chaos"
   ],
   "usedExamples": [
     "android-fintech",
@@ -47,7 +48,9 @@
     "influencer-ugc-mix",
     "trends-sole-fragrance",
     "thredsy-apparel-shoes",
-    "local-services-ads"
+    "local-services-ads",
+    "ranglook-ethnic",
+    "jaipur-tex-saree"
   ],
-  "lastRun": "2026-09-27"
+  "lastRun": "2026-09-28"
 }

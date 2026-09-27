@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos",
+    "date": "Sep 2026",
+    "title": "Performance Max for ecommerce: asset groups without the chaos",
+    "excerpt": "Performance Max for ecommerce: asset groups without the chaos — practical google ads guidance from Altmash on building brands, systems, and growth that compound.",
+    "tag": "Google Ads",
+    "readTime": "6 min read",
+    "href": "/blog/2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos/"
+  },
+  {
     "id": "2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack",
     "date": "Sep 2026",
     "title": "Why your Meta pixel setup matters more than another ad account hack",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Agency",
     "readTime": "6 min read",
     "href": "/blog/2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model/"
-  },
-  {
-    "id": "2026-09-25-how-to-build-a-brand-identity-that-sells-not-just-looks-pretty",
-    "date": "Sep 2026",
-    "title": "How to build a brand identity that sells, not just looks pretty",
-    "excerpt": "How to build a brand identity that sells, not just looks pretty — practical branding guidance from Altmash on building brands, systems, and growth that compound.",
-    "tag": "Branding",
-    "readTime": "6 min read",
-    "href": "/blog/2026-09-25-how-to-build-a-brand-identity-that-sells-not-just-looks-pretty/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 12,
-  "total": 15,
+  "archiveCount": 13,
+  "total": 16,
   "viewMore": "/blog/#archive"
 };
