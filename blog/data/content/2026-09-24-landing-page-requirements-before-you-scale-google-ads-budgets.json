@@ -1,0 +1,145 @@
+{
+  "title": "Landing page requirements before you scale Google Ads budgets",
+  "primaryKeyword": "Google Ads for small businesses in India",
+  "metaDescription": "Landing page requirements before you scale Google Ads budgets — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+  "keywords": [
+    "Google Ads for small businesses in India",
+    "Google Ads",
+    "Google Ads India",
+    "Google Ads tips",
+    "Google Ads strategy",
+    "Altmash",
+    "branding agency India"
+  ],
+  "intro": [
+    "If you are one of the local businesses and ecommerce brands that want high-intent leads, this article is for you. Landing page requirements before you scale Google Ads budgets sounds simple on paper, but in practice it touches your offer, your pages, your team and your budget at the same time — which is why I, Altmash, approach it as an operating system rather than a tactic.",
+    "This guide is written for doers: clear steps, honest trade-offs, realistic budgets for Indian brands and a checklist you can hand to your team today."
+  ],
+  "takeaways": [
+    "Review search terms and add negatives weekly.",
+    "Mobile speed is part of your bid.",
+    "Profitable Search first, Performance Max later.",
+    "Report brand and non-brand results separately."
+  ],
+  "sections": [
+    {
+      "heading": "Why Google Ads deserves a real system",
+      "paragraphs": [
+        "Google Ads catches people at the exact moment they search for what you sell. That intent is valuable, but only when the keyword, the ad and the landing page all answer the same question.",
+        "Budgets leak quietly on Google: broad match without negatives, Performance Max fed with weak assets, and landing pages that load slowly on mobile data.",
+        "The good news is that none of this needs a big team. It needs clear decisions, a weekly rhythm and someone who owns the result after launch — which is exactly how I run Google Ads for the brands I manage."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Mistakes that quietly waste money",
+      "paragraphs": [
+        "These are the mistakes I see most often when I audit brands. Each one looks small on its own; together they explain why results stall.",
+        "If you recognise two or more of these in your own business, fix them before adding budget. More spend on a broken system only makes the problem more expensive."
+      ],
+      "bullets": [
+        "Running broad match with no negative keyword list.",
+        "Sending every ad to the homepage.",
+        "Counting page views or button clicks as conversions.",
+        "Starting with Performance Max before Search has shown what converts.",
+        "Ignoring mobile page speed on Indian networks."
+      ]
+    },
+    {
+      "heading": "A step-by-step process for Google Ads for small businesses in India",
+      "paragraphs": [
+        "Here is the process I follow. The order matters: each step removes a reason for the next one to fail.",
+        "Do not skip the early steps to get to the exciting part. In my experience, most Google Ads problems that look like execution issues are really decisions that were never made at the start."
+      ],
+      "bullets": [
+        "Map intent: group keywords into brand, product, problem and competitor themes.",
+        "Build tight campaigns: one theme per ad group, with ads that repeat the searcher's own language.",
+        "Match landing pages: send each theme to a page that answers that exact query above the fold.",
+        "Add negatives weekly: review the search terms report and block irrelevant queries.",
+        "Track real conversions: calls, WhatsApp clicks, form fills and purchases, imported with values.",
+        "Layer Performance Max carefully: only after Search is profitable and your assets and feed are clean."
+      ]
+    },
+    {
+      "heading": "What this looks like on real brands",
+      "paragraphs": [
+        "One example from my own work: A founder’s personal brand started converting inbound only after content showed process and receipts — not motivational quotes.",
+        "That lesson applies directly to Google Ads: fix the input before you push more budget or effort through it.",
+        "Another: A kids apparel Shopify store reduced returns after size guides and fabric notes were redesigned for mobile thumbs, not desktop PDFs.",
+        "The details differ by category, but the principle holds: when the brand, the page and the channel tell one story, Google Ads becomes cheaper and more predictable."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "What you need in place before you start",
+      "paragraphs": [
+        "You do not need expensive software to do this well. This is the stack I usually start with:",
+        "Tools only help when someone owns them. Assign one person to each tool, document the setup, and keep every login in the brand's name rather than a freelancer's personal account."
+      ],
+      "bullets": [
+        "Google Ads with Google Tag or Google Tag Manager",
+        "Google Merchant Center for ecommerce feeds",
+        "Google Search Console for organic query overlap",
+        "PageSpeed Insights for landing page speed",
+        "Looker Studio for a weekly report"
+      ]
+    },
+    {
+      "heading": "How much time and money Google Ads takes",
+      "paragraphs": [
+        "Local service businesses in India often start Google Search with ₹500 to ₹2,000 a day, while ecommerce brands usually need more for Shopping and Performance Max. Treat the first three to four weeks as a learning period spent refining keywords and negatives.",
+        "These ranges are starting points, not quotes. The right number depends on your category, your margins and how much of the work your team can handle in-house. What matters most is committing to a test long enough to learn from it."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "What is different for brands in India",
+      "paragraphs": [
+        "Indian buyers are mobile-first, value-conscious and quick to message a brand on WhatsApp before they buy. Page speed on patchy networks, clear pricing, easy payment options and fast replies are part of Google Ads, not separate from it.",
+        "Festive seasons, regional preferences and cash-on-delivery habits also shape results. Plan your calendar around them instead of treating every month the same."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "A 30-day plan you can start this week",
+      "paragraphs": [
+        "If you want to move quickly, here is how I would sequence the first month.",
+        "At the end of the month you will have real data instead of opinions — and a clear picture of where to invest next."
+      ],
+      "bullets": [
+        "Week 1: Map intent and build tight campaigns.",
+        "Week 2: Match landing pages.",
+        "Week 3: Add negatives weekly and track real conversions.",
+        "Week 4: Layer Performance Max carefully, then review your metrics and decide what to keep."
+      ]
+    }
+  ],
+  "conclusion": [
+    "If you take one thing from this guide, let it be this: Google Ads compounds when it is treated as a system. Fix the inputs, keep a simple scoreboard and give each change enough time to show results.",
+    "If you want help applying this to your brand, message me on WhatsApp. I am Altmash, and I build and run brands end to end — website, identity, ads and the systems that keep them growing."
+  ],
+  "faq": [
+    {
+      "q": "Is Google Ads better than Meta ads?",
+      "a": "They do different jobs. Google captures people already searching, while Meta creates demand among people who were not searching yet. Many brands use Google for high-intent sales and Meta for discovery and retargeting."
+    },
+    {
+      "q": "What is a good conversion rate for Google Ads?",
+      "a": "It depends heavily on industry and offer. Instead of chasing a benchmark, compare landing pages and ad groups inside your own account and keep improving the weakest ones."
+    },
+    {
+      "q": "Should I use Performance Max?",
+      "a": "Use it once Search campaigns convert and your tracking, product feed and creative assets are clean. Performance Max amplifies whatever you give it, including the problems."
+    },
+    {
+      "q": "How does Google Ads connect with SEO?",
+      "a": "Clear structure, useful content and fast, focused pages help both search rankings and conversions. The same discipline that makes Google Ads perform usually makes your brand easier to find as well."
+    },
+    {
+      "q": "Does Altmash work with brands outside India?",
+      "a": "Yes. Altmash works with Indian and international brands on branding, websites, Shopify, ads and full brand management, usually coordinated over WhatsApp and video calls."
+    }
+  ],
+  "source": "local",
+  "generatedAt": "2026-09-28T16:12:50.150Z"
+}

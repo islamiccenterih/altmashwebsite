@@ -5,9 +5,18 @@ on:
     # 00:30 IST = 19:00 UTC previous day
     - cron: "0 19 * * *"
   workflow_dispatch:
+    inputs:
+      regenerate:
+        description: "Rewrite existing posts instead of publishing a new one: 'all', a number (e.g. 5), or leave empty"
+        required: false
+        default: ""
 
 permissions:
   contents: write
+
+concurrency:
+  group: daily-blog
+  cancel-in-progress: false
 
 jobs:
   publish:
@@ -21,11 +30,20 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Generate daily blog post
+      - name: Generate blog content
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
-        run: node scripts/generate-daily-blog.mjs
+          REGENERATE: ${{ github.event.inputs.regenerate }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo "::warning::OPENAI_API_KEY is not set — using the local composer."
+          fi
+          if [ -n "$REGENERATE" ]; then
+            node scripts/generate-daily-blog.mjs --regenerate "$REGENERATE"
+          else
+            node scripts/generate-daily-blog.mjs
+          fi
 
       - name: Commit and push
         run: |
@@ -36,5 +54,10 @@ jobs:
             echo "No changes to publish"
             exit 0
           fi
-          git commit -m "content: publish daily SEO blog $(date -u +%F)"
+          if [ -n "${{ github.event.inputs.regenerate }}" ]; then
+            git commit -m "content: regenerate blog posts ($(date -u +%F))"
+          else
+            git commit -m "content: publish daily SEO blog $(date -u +%F)"
+          fi
+          git pull --rebase origin main
           git push

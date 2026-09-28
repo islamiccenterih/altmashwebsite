@@ -3,27 +3,27 @@ window.BLOG_FEED = [
     "id": "2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos",
     "date": "Sep 2026",
     "title": "Performance Max for ecommerce: asset groups without the chaos",
-    "excerpt": "Performance Max for ecommerce: asset groups without the chaos — practical google ads guidance from Altmash on building brands, systems, and growth that compound.",
+    "excerpt": "Performance Max for ecommerce: asset groups without the chaos — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
     "tag": "Google Ads",
-    "readTime": "6 min read",
+    "readTime": "5 min read",
     "href": "/blog/2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos/"
   },
   {
     "id": "2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack",
     "date": "Sep 2026",
     "title": "Why your Meta pixel setup matters more than another ad account hack",
-    "excerpt": "Why your Meta pixel setup matters more than another ad account hack — practical meta ads guidance from Altmash on building brands, systems, and growth that compound.",
+    "excerpt": "Why your Meta pixel setup matters more than another ad account hack — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
     "tag": "Meta Ads",
-    "readTime": "6 min read",
+    "readTime": "5 min read",
     "href": "/blog/2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack/"
   },
   {
     "id": "2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model",
     "date": "Sep 2026",
     "title": "Agency vs freelancer: when founders should upgrade the model",
-    "excerpt": "Agency vs freelancer: when founders should upgrade the model — practical agency guidance from Altmash on building brands, systems, and growth that compound.",
+    "excerpt": "Agency vs freelancer: when founders should upgrade the model — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
     "tag": "Agency",
-    "readTime": "6 min read",
+    "readTime": "5 min read",
     "href": "/blog/2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model/"
   }
 ];

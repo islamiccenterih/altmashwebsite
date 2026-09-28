@@ -1,0 +1,131 @@
+{
+  "title": "How Altmash structures Meta campaigns for apparel and services",
+  "primaryKeyword": "Meta ads for Indian ecommerce brands",
+  "metaDescription": "How Altmash structures Meta campaigns for apparel and services — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+  "keywords": [
+    "Meta ads for Indian ecommerce brands",
+    "Meta ads",
+    "Meta ads India",
+    "Meta ads tips",
+    "Meta ads strategy",
+    "Altmash",
+    "branding agency India"
+  ],
+  "intro": [
+    "Most advice about Meta ads for Indian ecommerce brands is either too generic or written by people who have never had to hit a monthly target with it. I am Altmash, and everything in this guide comes from running live brands across fashion, ethnic wear, footwear, perfume and community platforms.",
+    "Below I walk through why it matters, a step-by-step process, the mistakes I see most often, what to measure and a practical 30-day plan you can start this week."
+  ],
+  "takeaways": [
+    "Match the landing page to the ad promise.",
+    "Fewer, broader campaigns learn faster.",
+    "Fresh creatives every week protect your winners.",
+    "Verify purchase tracking before spending."
+  ],
+  "sections": [
+    {
+      "heading": "Why Meta ads deserves a real system",
+      "paragraphs": [
+        "Meta is still the fastest way for most Indian D2C brands to reach cold buyers at scale. The algorithm is good at finding people; what it cannot fix is a weak offer, a slow page or creatives that look like every other brand in the feed.",
+        "Most wasted Meta budget comes from structure and inputs rather than targeting: broken pixel events, too many tiny ad sets, and creatives that are tested once and never iterated.",
+        "The good news is that none of this needs a big team. It needs clear decisions, a weekly rhythm and someone who owns the result after launch — which is exactly how I run Meta ads for the brands I manage."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "A step-by-step process for Meta ads for Indian ecommerce brands",
+      "paragraphs": [
+        "Here is the process I follow. The order matters: each step removes a reason for the next one to fail.",
+        "Give each step a clear owner and a deadline. A plan without owners is just a list of good intentions, and Meta ads punishes good intentions that never ship."
+      ],
+      "bullets": [
+        "Fix tracking: install the pixel and Conversions API, and confirm purchase and add-to-cart events fire with correct values.",
+        "Simplify structure: one prospecting campaign with broad targeting and one retargeting campaign is enough for most budgets.",
+        "Build a creative matrix: test three hooks, two formats and two offers instead of random one-off ads.",
+        "Set kill rules: pause ads that miss your cost-per-add-to-cart threshold after 48 to 72 hours of spend.",
+        "Scale winners slowly: raise budgets 20 to 30 percent every few days or duplicate into a new campaign.",
+        "Refresh weekly: ship new creatives every week so frequency never burns out your best audience."
+      ]
+    },
+    {
+      "heading": "What is different for brands in India",
+      "paragraphs": [
+        "Indian buyers are mobile-first, value-conscious and quick to message a brand on WhatsApp before they buy. Page speed on patchy networks, clear pricing, easy payment options and fast replies are part of Meta ads, not separate from it.",
+        "At the same time, trust is local while expectations are global. A buyer in Jaipur or Lucknow compares your experience with the best apps on their phone, so the bar for clarity and speed keeps rising."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Where most brands go wrong with Meta ads",
+      "paragraphs": [
+        "These are the mistakes I see most often when I audit brands. Each one looks small on its own; together they explain why results stall.",
+        "If you recognise two or more of these in your own business, fix them before adding budget. More spend on a broken system only makes the problem more expensive."
+      ],
+      "bullets": [
+        "Launching ads before purchase events are verified.",
+        "Splitting a small budget across ten interest ad sets.",
+        "Judging creatives on likes instead of cost per purchase.",
+        "Sending ad traffic to the homepage instead of a matching product or collection page.",
+        "Switching campaigns on and off daily, which resets learning."
+      ]
+    },
+    {
+      "heading": "What this looks like on real brands",
+      "paragraphs": [
+        "One example from my own work: A handmade décor brand’s ROAS improved when product stories explained craft time — buyers paid more when the brand felt human.",
+        "For Meta ads, the takeaway is to treat proof and clarity as part of the work, not as decoration on top of it.",
+        "Another: Performance Max wasted budget until we gave Google clean asset groups, strong brand negatives, and landing pages that matched query themes.",
+        "The details differ by category, but the principle holds: when the brand, the page and the channel tell one story, Meta ads becomes cheaper and more predictable."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "Realistic budgets for Indian brands",
+      "paragraphs": [
+        "Many Indian D2C brands start Meta testing with ₹1,000 to ₹3,000 a day. Give a new campaign at least seven to ten days before judging it, and while conversion volume is low, focus on finding winning creatives rather than building complex structures.",
+        "These ranges are starting points, not quotes. The right number depends on your category, your margins and how much of the work your team can handle in-house. What matters most is committing to a test long enough to learn from it."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "A 30-day plan you can start this week",
+      "paragraphs": [
+        "If you want to move quickly, here is how I would sequence the first month.",
+        "At the end of the month you will have real data instead of opinions — and a clear picture of where to invest next."
+      ],
+      "bullets": [
+        "Week 1: Fix tracking and simplify structure.",
+        "Week 2: Build a creative matrix.",
+        "Week 3: Set kill rules and scale winners slowly.",
+        "Week 4: Refresh weekly, then review your metrics and decide what to keep."
+      ]
+    }
+  ],
+  "conclusion": [
+    "If you take one thing from this guide, let it be this: Meta ads compounds when it is treated as a system. Fix the inputs, keep a simple scoreboard and give each change enough time to show results.",
+    "If you want help applying this to your brand, message me on WhatsApp. I am Altmash, and I build and run brands end to end — website, identity, ads and the systems that keep them growing."
+  ],
+  "faq": [
+    {
+      "q": "How much should I spend on Meta ads to start?",
+      "a": "A practical starting point for many Indian brands is ₹1,000 to ₹3,000 per day for at least one to two weeks. The goal of the first month is to find winning creatives and offers, not instant profit."
+    },
+    {
+      "q": "Is broad targeting better than interests?",
+      "a": "With a working pixel and strong creatives, broad targeting often performs as well or better because Meta has more room to optimise. Interests can still help when you have very little conversion data."
+    },
+    {
+      "q": "Why did my Meta ads suddenly stop working?",
+      "a": "Common reasons are creative fatigue, rising frequency, a tracking issue after a site change, or an offer that lost relevance. Check events first, then refresh creatives before rebuilding campaigns."
+    },
+    {
+      "q": "What is the first thing to fix in Meta ads?",
+      "a": "Start with clarity: who it is for, what the offer is and what action you want next. Most Meta ads problems that look technical are really unclear decisions made earlier."
+    },
+    {
+      "q": "How does Meta ads connect with SEO?",
+      "a": "Clear structure, useful content and fast, focused pages help both search rankings and conversions. The same discipline that makes Meta ads perform usually makes your brand easier to find as well."
+    }
+  ],
+  "source": "local",
+  "generatedAt": "2026-09-28T16:12:50.149Z"
+}

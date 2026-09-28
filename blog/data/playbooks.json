@@ -1,0 +1,614 @@
+{
+  "Branding": {
+    "keyword": "brand identity for Indian D2C brands",
+    "audience": "founders launching or relaunching a D2C brand",
+    "why": [
+      "Your brand is the shortcut a buyer uses to decide whether you are worth the risk. In crowded categories like apparel, perfume or ethnic wear, product photos start to look alike; the promise, the tone and the consistency are what make someone remember you.",
+      "A clear identity also lowers your ad costs. When every creative, product page and WhatsApp reply sounds like the same brand, people recognise you on the second and third touch, and those are the touches that usually convert."
+    ],
+    "steps": [
+      "Positioning first — write one sentence that says who the brand is for, what it replaces and why it is different.",
+      "Audit the competition — screenshot the top ten brands in your category and note what everyone repeats so you can avoid it.",
+      "Define voice and tone — pick three words for how you sound and write ten example lines for ads, captions and support replies.",
+      "Build the visual system — logo, two primary colours, one accent, two typefaces and photography rules a freelancer can follow.",
+      "Apply it to money pages — homepage, product pages, packaging and the first ad set before anything else.",
+      "Document and review — keep a one-page brand guide and check every new creative against it for the first 90 days."
+    ],
+    "mistakes": [
+      "Starting with a logo before the positioning is clear.",
+      "Copying the look of a bigger brand, which makes you the cheaper version of them.",
+      "Using a different tone on Instagram, the website and WhatsApp.",
+      "Redesigning every season instead of building recognition.",
+      "Treating packaging and unboxing as an afterthought."
+    ],
+    "metrics": [
+      "Branded search volume and direct traffic over 90 days",
+      "Repeat purchase rate",
+      "Click-through rate on ads using brand assets versus generic creatives",
+      "Share of orders from returning customers",
+      "Unprompted mentions and tagged posts"
+    ],
+    "tools": [
+      "Figma for the identity system and templates",
+      "Canva brand kits so the team ships on-brand creatives quickly",
+      "Google Fonts for licensed, fast-loading typefaces",
+      "A shared Notion or Google Doc brand guide",
+      "Meta Ad Library and Google Ads Transparency Center for competitor research"
+    ],
+    "tips": [
+      "Fix the promise before you design anything.",
+      "Three voice words and ten example lines beat a 40-page brand book.",
+      "Apply the identity to money pages first.",
+      "Consistency across channels lowers ad costs.",
+      "Review every creative against the guide for 90 days.",
+      "Recognition compounds; constant redesigns reset it."
+    ],
+    "budget": "For a small Indian D2C brand, a focused identity sprint usually takes two to four weeks. Budget roughly ₹25,000 to ₹75,000 for positioning, logo and a usable guide, and keep money aside to apply it across the website and first creatives, because an identity that never reaches the store does nothing.",
+    "faq": [
+      { "q": "How long does it take to build a brand identity?", "a": "A focused identity for a small brand usually takes two to four weeks: one week for positioning and research, one to two weeks for the visual system, and a final week to apply it to the website, packaging and first ads." },
+      { "q": "Do I need a new logo to rebrand?", "a": "Not always. Many brands need clearer positioning and consistent application more than a new logo. If the logo is readable and not confused with a competitor, fix the system around it first." },
+      { "q": "What should a small brand guide include?", "a": "One page is enough to start: a positioning sentence, three voice words with example lines, logo usage, colours, typefaces and photography rules. Add more only when the team keeps asking the same questions." }
+    ]
+  },
+  "Agency": {
+    "keyword": "choosing a branding and marketing agency",
+    "audience": "founders deciding between freelancers, in-house hires and an agency",
+    "why": [
+      "The right agency gives you strategy and execution under one owner, so your website, creatives and ad spend push in the same direction. The wrong one gives you polished decks and a monthly invoice with nothing that moves revenue.",
+      "Because an agency sits close to your money, the relationship needs structure: a clear scope, a weekly scoreboard and one person accountable for outcomes, not just deliverables."
+    ],
+    "steps": [
+      "Write the brief — goal, budget, current numbers, what has been tried and what success looks like in 90 days.",
+      "Shortlist by proof — ask for live brands they still manage, not just portfolio screenshots.",
+      "Run a paid trial — a four to six week sprint on one clear problem tells you more than any pitch.",
+      "Agree a scoreboard — three to five metrics reviewed every week in the same document.",
+      "Define ownership — ad accounts, domains, pixels and design files stay in your name from day one.",
+      "Review at 90 days — keep, expand or exit based on the scoreboard, not on how busy things felt."
+    ],
+    "mistakes": [
+      "Hiring on a pitch deck instead of live work.",
+      "Letting the agency own your ad accounts or domain.",
+      "Changing the brief every week so nothing gets tested properly.",
+      "Paying for activity reports instead of outcome reviews.",
+      "Splitting branding, website and ads across three vendors who never talk."
+    ],
+    "metrics": [
+      "Revenue or qualified leads from agency-run channels",
+      "Blended customer acquisition cost",
+      "Creatives shipped per week",
+      "Time from brief to live campaign",
+      "Conversion rate on pages the agency owns"
+    ],
+    "tools": [
+      "A shared scoreboard in Google Sheets or Looker Studio",
+      "Meta Business Manager and Google Ads accounts owned by the brand",
+      "A Slack or WhatsApp group with a clear escalation owner",
+      "A shared drive for creatives and source files",
+      "A simple project board such as Trello or Notion"
+    ],
+    "tips": [
+      "Hire on live proof, not decks.",
+      "Keep every account and file in your own name.",
+      "Start with a paid trial sprint.",
+      "Review a scoreboard weekly.",
+      "One owner across brand, site and ads beats three vendors.",
+      "Decide at 90 days using numbers."
+    ],
+    "budget": "In India, small brands typically spend ₹30,000 to ₹1,50,000 a month on agency retainers depending on scope, with ad spend on top. A four to six week trial on a single problem is the cheapest way to find out whether the fit is real.",
+    "faq": [
+      { "q": "Is an agency better than a freelancer?", "a": "A freelancer is great for a single skill like design or ads. An agency makes sense when you need strategy, creative, website and paid media working together with one accountable owner." },
+      { "q": "What should an agency retainer include?", "a": "A clear scope of deliverables, a weekly or fortnightly performance review, named people on your account and a notice period. Ad spend should be billed separately and paid directly from your own account." },
+      { "q": "How do I know if my agency is working?", "a": "Look at the scoreboard you agreed at the start. If qualified leads, revenue or acquisition cost are not improving after 90 days of consistent work, the plan or the partner needs to change." }
+    ]
+  },
+  "Meta Ads": {
+    "keyword": "Meta ads for Indian ecommerce brands",
+    "audience": "D2C and ecommerce founders running Facebook and Instagram ads",
+    "why": [
+      "Meta is still the fastest way for most Indian D2C brands to reach cold buyers at scale. The algorithm is good at finding people; what it cannot fix is a weak offer, a slow page or creatives that look like every other brand in the feed.",
+      "Most wasted Meta budget comes from structure and inputs rather than targeting: broken pixel events, too many tiny ad sets, and creatives that are tested once and never iterated."
+    ],
+    "steps": [
+      "Fix tracking — install the pixel and Conversions API, and confirm purchase and add-to-cart events fire with correct values.",
+      "Simplify structure — one prospecting campaign with broad targeting and one retargeting campaign is enough for most budgets.",
+      "Build a creative matrix — test three hooks, two formats and two offers instead of random one-off ads.",
+      "Set kill rules — pause ads that miss your cost-per-add-to-cart threshold after 48 to 72 hours of spend.",
+      "Scale winners slowly — raise budgets 20 to 30 percent every few days or duplicate into a new campaign.",
+      "Refresh weekly — ship new creatives every week so frequency never burns out your best audience."
+    ],
+    "mistakes": [
+      "Launching ads before purchase events are verified.",
+      "Splitting a small budget across ten interest ad sets.",
+      "Judging creatives on likes instead of cost per purchase.",
+      "Sending ad traffic to the homepage instead of a matching product or collection page.",
+      "Switching campaigns on and off daily, which resets learning."
+    ],
+    "metrics": [
+      "Cost per purchase and ROAS by campaign",
+      "Link click-through rate and cost per click",
+      "Add-to-cart rate from ad traffic",
+      "Frequency on prospecting campaigns",
+      "Hook rate (3-second video views) on new creatives"
+    ],
+    "tools": [
+      "Meta Ads Manager and Events Manager",
+      "Conversions API through Shopify or a server-side setup",
+      "Meta Ad Library for competitor creative research",
+      "CapCut or Canva for fast creative iterations",
+      "A creative testing log in Google Sheets"
+    ],
+    "tips": [
+      "Verify purchase tracking before spending.",
+      "Fewer, broader campaigns learn faster.",
+      "Test hooks in batches, not one-offs.",
+      "Kill losers in 48 to 72 hours.",
+      "Match the landing page to the ad promise.",
+      "Fresh creatives every week protect your winners."
+    ],
+    "budget": "Many Indian D2C brands start Meta testing with ₹1,000 to ₹3,000 a day. Give a new campaign at least seven to ten days before judging it, and while conversion volume is low, focus on finding winning creatives rather than building complex structures.",
+    "faq": [
+      { "q": "How much should I spend on Meta ads to start?", "a": "A practical starting point for many Indian brands is ₹1,000 to ₹3,000 per day for at least one to two weeks. The goal of the first month is to find winning creatives and offers, not instant profit." },
+      { "q": "Is broad targeting better than interests?", "a": "With a working pixel and strong creatives, broad targeting often performs as well or better because Meta has more room to optimise. Interests can still help when you have very little conversion data." },
+      { "q": "Why did my Meta ads suddenly stop working?", "a": "Common reasons are creative fatigue, rising frequency, a tracking issue after a site change, or an offer that lost relevance. Check events first, then refresh creatives before rebuilding campaigns." }
+    ]
+  },
+  "Google Ads": {
+    "keyword": "Google Ads for small businesses in India",
+    "audience": "local businesses and ecommerce brands that want high-intent leads",
+    "why": [
+      "Google Ads catches people at the exact moment they search for what you sell. That intent is valuable, but only when the keyword, the ad and the landing page all answer the same question.",
+      "Budgets leak quietly on Google: broad match without negatives, Performance Max fed with weak assets, and landing pages that load slowly on mobile data."
+    ],
+    "steps": [
+      "Map intent — group keywords into brand, product, problem and competitor themes.",
+      "Build tight campaigns — one theme per ad group, with ads that repeat the searcher's own language.",
+      "Match landing pages — send each theme to a page that answers that exact query above the fold.",
+      "Add negatives weekly — review the search terms report and block irrelevant queries.",
+      "Track real conversions — calls, WhatsApp clicks, form fills and purchases, imported with values.",
+      "Layer Performance Max carefully — only after Search is profitable and your assets and feed are clean."
+    ],
+    "mistakes": [
+      "Running broad match with no negative keyword list.",
+      "Sending every ad to the homepage.",
+      "Counting page views or button clicks as conversions.",
+      "Starting with Performance Max before Search has shown what converts.",
+      "Ignoring mobile page speed on Indian networks."
+    ],
+    "metrics": [
+      "Cost per qualified lead or purchase",
+      "Search impression share on core keywords",
+      "Conversion rate by landing page",
+      "Share of relevant queries in the search terms report",
+      "Quality Score on top keywords"
+    ],
+    "tools": [
+      "Google Ads with Google Tag or Google Tag Manager",
+      "Google Merchant Center for ecommerce feeds",
+      "Google Search Console for organic query overlap",
+      "PageSpeed Insights for landing page speed",
+      "Looker Studio for a weekly report"
+    ],
+    "tips": [
+      "Keyword, ad and landing page must answer the same question.",
+      "Review search terms and add negatives weekly.",
+      "Track real conversions with values.",
+      "Profitable Search first, Performance Max later.",
+      "Mobile speed is part of your bid.",
+      "Report brand and non-brand results separately."
+    ],
+    "budget": "Local service businesses in India often start Google Search with ₹500 to ₹2,000 a day, while ecommerce brands usually need more for Shopping and Performance Max. Treat the first three to four weeks as a learning period spent refining keywords and negatives.",
+    "faq": [
+      { "q": "Is Google Ads better than Meta ads?", "a": "They do different jobs. Google captures people already searching, while Meta creates demand among people who were not searching yet. Many brands use Google for high-intent sales and Meta for discovery and retargeting." },
+      { "q": "What is a good conversion rate for Google Ads?", "a": "It depends heavily on industry and offer. Instead of chasing a benchmark, compare landing pages and ad groups inside your own account and keep improving the weakest ones." },
+      { "q": "Should I use Performance Max?", "a": "Use it once Search campaigns convert and your tracking, product feed and creative assets are clean. Performance Max amplifies whatever you give it, including the problems." }
+    ]
+  },
+  "Sales": {
+    "keyword": "sales process for small businesses in India",
+    "audience": "founders who close deals over WhatsApp, calls and DMs",
+    "why": [
+      "Marketing brings people to the door; sales decides whether they walk in. For most small Indian businesses the sales process lives in WhatsApp chats and phone calls, so speed and clarity matter more than any CRM feature.",
+      "A simple, repeatable process also makes growth predictable. When you know how many leads you need, how fast you reply and what converts, you can plan ad spend instead of hoping."
+    ],
+    "steps": [
+      "Define the offer — one clear package with a price range, timeline and what is included.",
+      "Qualify fast — ask three discovery questions about need, budget and timeline in the first reply.",
+      "Reply within minutes — set a target first-response time and track it.",
+      "Send proof — share one relevant case study or example before the price.",
+      "Follow up on a schedule — day one, day three and day seven, each with new value rather than a bare reminder.",
+      "Close and hand off — confirm scope in writing, collect the advance and start onboarding the same day."
+    ],
+    "mistakes": [
+      "Replying hours later to warm leads.",
+      "Sending long price lists before understanding the need.",
+      "Offering discounts to cover an unclear offer.",
+      "No follow-up after the first quote.",
+      "Keeping leads in personal chats with no tracking."
+    ],
+    "metrics": [
+      "First response time",
+      "Lead-to-call and call-to-close rates",
+      "Average deal value",
+      "Days from first message to payment",
+      "Share of leads followed up at least three times"
+    ],
+    "tools": [
+      "WhatsApp Business with labels and quick replies",
+      "A simple CRM such as a shared Google Sheet, Zoho or HubSpot's free plan",
+      "Calendly or Google Calendar booking links",
+      "Payment links through Razorpay or UPI",
+      "Saved case study PDFs or landing pages"
+    ],
+    "tips": [
+      "Speed to first reply wins trust.",
+      "Ask three questions before quoting.",
+      "Proof before price.",
+      "Follow up three times with new value.",
+      "Clarity beats discounts.",
+      "Track every lead somewhere shared."
+    ],
+    "budget": "Most small businesses can run a solid sales process with free or low-cost tools: WhatsApp Business, a shared sheet and payment links. The real investment is time — one person who owns response speed and follow-up every single day.",
+    "faq": [
+      { "q": "How fast should I reply to a new lead?", "a": "As fast as possible, ideally within five to fifteen minutes during working hours. Leads contacted quickly are far more likely to continue the conversation than those who wait for hours." },
+      { "q": "Should I share prices on WhatsApp immediately?", "a": "Share a range once you understand the need. A few quick questions first let you recommend the right package, which makes the price feel justified instead of random." },
+      { "q": "How many follow-ups are too many?", "a": "Three to four well-spaced follow-ups that each add something useful — an example, an answer, a limited slot — are reasonable. Stop when the lead clearly says no." }
+    ]
+  },
+  "Personal Brand": {
+    "keyword": "personal branding for founders",
+    "audience": "founders and operators who want inbound clients from their own name",
+    "why": [
+      "People buy from people they trust. A founder who shares how they think and what they have built shortens every sales conversation, because the prospect already knows the standard before the first call.",
+      "A personal brand is also an asset you keep when businesses change. The audience, the reputation and the search results follow your name, not a single company."
+    ],
+    "steps": [
+      "Pick your lane — two or three topics you can speak on from real experience.",
+      "Build a home base — a personal website with your story, your work and a clear way to contact you.",
+      "Publish receipts — share process, decisions, numbers you are allowed to share and lessons from live projects.",
+      "Choose one main platform — Instagram, LinkedIn or YouTube, with a consistent posting schedule.",
+      "Repurpose — turn one long piece into short posts, reels and a newsletter.",
+      "Convert — add a simple offer and a WhatsApp or form call to action to everything you publish."
+    ],
+    "mistakes": [
+      "Posting motivational quotes instead of real work.",
+      "Trying to be on every platform at once.",
+      "No website, so all credibility lives on rented social profiles.",
+      "Hiding the offer so followers never become clients.",
+      "Stopping after a few weeks because growth feels slow."
+    ],
+    "metrics": [
+      "Inbound enquiries that mention your content",
+      "Branded search for your name",
+      "Followers from your target audience rather than total followers",
+      "Newsletter or WhatsApp list growth",
+      "Content-to-call conversion rate"
+    ],
+    "tools": [
+      "A personal website on your own domain",
+      "Google Search Console to track searches for your name",
+      "Canva or Figma for carousels",
+      "CapCut for short videos",
+      "A content calendar in Notion"
+    ],
+    "tips": [
+      "Publish receipts, not quotes.",
+      "Own your home base on your own domain.",
+      "One main platform, done consistently.",
+      "Repurpose one idea into many formats.",
+      "Always show a clear next step.",
+      "Give it at least six months."
+    ],
+    "budget": "A personal brand mostly costs time: three to five hours a week for content. A simple personal website and domain are a one-time investment that keeps paying back, because every post can point to them.",
+    "faq": [
+      { "q": "Which platform is best for a founder's personal brand?", "a": "Choose the platform where your buyers already spend time. B2B founders often start with LinkedIn, consumer brand founders with Instagram, and educators with YouTube. Consistency matters more than the platform." },
+      { "q": "Do I need a personal website?", "a": "Yes, if you want inbound clients. Social profiles can disappear or change their rules; your own website ranks for your name and holds your portfolio, story and contact options." },
+      { "q": "How long does personal branding take to work?", "a": "Most founders see meaningful inbound only after six to twelve months of consistent, useful content. Early results usually show up first as better conversations rather than big follower numbers." }
+    ]
+  },
+  "Website Development": {
+    "keyword": "business website development in India",
+    "audience": "brands and service businesses planning a new or rebuilt website",
+    "why": [
+      "Your website is the one place where every channel lands: ads, search, social and referrals. If it is slow, confusing or untrustworthy, every rupee spent on marketing loses value.",
+      "A good website is built as a conversion product. Speed, structure and one clear action on each page matter far more than heavy animations or trendy layouts."
+    ],
+    "steps": [
+      "Define the goal — purchases, calls, WhatsApp chats or form leads, and the one action each page should drive.",
+      "Plan the sitemap — clean URLs, a logical hierarchy and pages mapped to what people actually search.",
+      "Write content before design — headlines, proof and offers first, so the design supports the message.",
+      "Design mobile first — most Indian traffic is on phones, often on patchy networks.",
+      "Build for speed and SEO — compressed images, semantic headings, metadata and schema markup.",
+      "Launch and measure — analytics, Search Console and a monthly improvement cycle."
+    ],
+    "mistakes": [
+      "Designing before the content and goal are clear.",
+      "Heavy sliders and videos that slow mobile loading.",
+      "No clear call to action above the fold.",
+      "Messy URLs and missing page titles that hurt SEO.",
+      "Launching and never updating the site again."
+    ],
+    "metrics": [
+      "Core Web Vitals on mobile, especially Largest Contentful Paint",
+      "Conversion rate per key page",
+      "Organic clicks and impressions in Search Console",
+      "Bounce rate on landing pages from ads",
+      "Leads or sales per month from the website"
+    ],
+    "tools": [
+      "Google PageSpeed Insights and Lighthouse",
+      "Google Search Console and Google Analytics 4",
+      "Figma for wireframes and design",
+      "A CMS such as WordPress or Shopify, or a static site for maximum speed",
+      "Hosting with SSL and a CDN, such as Hostinger or Cloudflare"
+    ],
+    "tips": [
+      "Every page needs one primary action.",
+      "Write content before design.",
+      "Mobile speed is non-negotiable in India.",
+      "Clean URLs and headings are the base of SEO.",
+      "Measure monthly and keep improving.",
+      "Put trust signals near every call to action."
+    ],
+    "budget": "In India a simple business website can cost ₹15,000 to ₹50,000, while a custom brand site or ecommerce build often ranges from ₹50,000 to ₹2,00,000 or more. A typical timeline is three to eight weeks, depending mostly on how ready the content is.",
+    "faq": [
+      { "q": "How much does a business website cost in India?", "a": "Simple informational sites often start around ₹15,000 to ₹50,000. Custom designs, ecommerce and integrations increase the cost. The bigger factor is usually how much content and strategy work is included." },
+      { "q": "How long does it take to build a website?", "a": "Most small business websites take three to eight weeks. The biggest delays usually come from missing content, photos and approvals rather than from development itself." },
+      { "q": "Is a fast website really important for SEO?", "a": "Yes. Page experience is part of how search engines evaluate pages, and faster sites also convert better because visitors on mobile networks do not wait for slow pages." }
+    ]
+  },
+  "Shopify Development": {
+    "keyword": "Shopify store development for Indian brands",
+    "audience": "apparel, beauty and lifestyle brands selling on Shopify",
+    "why": [
+      "Shopify makes it easy to launch, but a store that sells consistently needs intentional structure: collections, product templates, filters and a checkout that feels safe to Indian buyers.",
+      "Your store setup also feeds your ads. Product titles, images, variants and the product feed decide how well Meta and Google catalog campaigns can perform."
+    ],
+    "steps": [
+      "Plan the catalog — collections, tags, variants and naming rules before uploading products.",
+      "Choose a fast theme — prefer a lightweight theme and customise it rather than stacking apps.",
+      "Build strong product pages — clear photos, size guides, fabric or ingredient details, reviews and delivery information.",
+      "Set up payments and COD — an Indian payment gateway, COD rules and shipping zones.",
+      "Connect channels — Meta and Google feeds, pixels and analytics with correct events.",
+      "Optimise after launch — abandoned cart flows, one post-purchase upsell and monthly speed checks."
+    ],
+    "mistakes": [
+      "Installing too many apps that slow the store and conflict with each other.",
+      "Missing size guides and fabric details, which drives returns.",
+      "Messy product titles that weaken ad catalogs.",
+      "No COD option or trust signals for first-time Indian buyers.",
+      "Ignoring abandoned cart recovery on WhatsApp and email."
+    ],
+    "metrics": [
+      "Store conversion rate and add-to-cart rate",
+      "Average order value",
+      "Return and RTO rate",
+      "Mobile page speed on product pages",
+      "Abandoned cart recovery rate"
+    ],
+    "tools": [
+      "Shopify admin with a lightweight theme",
+      "Razorpay or another Indian payment gateway",
+      "Shiprocket or a similar shipping aggregator",
+      "A reviews app such as Judge.me",
+      "The Meta and Google sales channel apps"
+    ],
+    "tips": [
+      "Plan the catalog before uploading products.",
+      "Fewer apps, faster store.",
+      "Product pages should answer every buying question.",
+      "COD and trust signals matter for Indian buyers.",
+      "Catalog quality is ad feed quality.",
+      "Recover abandoned carts on WhatsApp."
+    ],
+    "budget": "A Shopify setup for an Indian brand typically ranges from about ₹25,000 for a theme-based build to ₹1,50,000 or more for custom design and integrations, plus monthly Shopify and app fees. Plan two to six weeks depending on catalog size.",
+    "faq": [
+      { "q": "Is Shopify good for Indian brands?", "a": "Yes. Shopify supports Indian payment gateways, COD, shipping integrations and strong ad channel connections. It suits brands that want to launch fast and scale without managing servers." },
+      { "q": "How can I reduce returns on my Shopify store?", "a": "Add accurate size guides, real fabric or material details, multiple photos including on-body shots, and clear delivery and exchange policies. Most returns come from expectations not matching the product." },
+      { "q": "How many apps should a Shopify store use?", "a": "As few as possible. Each app can add scripts that slow the store. Keep apps for reviews, shipping and recovery, and remove anything that is not clearly paying for itself." }
+    ]
+  },
+  "Android App": {
+    "keyword": "Android app development for startups",
+    "audience": "startups and businesses planning an Android app for Indian users",
+    "why": [
+      "India is a mobile-first market where Android dominates, so an app can become your most direct line to customers. But an app only pays off if people open it again after the first day.",
+      "Most app budgets are lost after launch: installs bought through ads that never become active users because onboarding, speed or the core feature did not match the promise."
+    ],
+    "steps": [
+      "Validate the core use case — one job the app must do better than a website or WhatsApp.",
+      "Scope an MVP — the smallest feature set that delivers that job, with a fixed release date.",
+      "Design onboarding — get users to the first useful moment within a minute.",
+      "Build for Indian devices — test on low and mid-range phones, limited storage and slow networks.",
+      "Instrument analytics — events for signup, first key action and retention from day one.",
+      "Launch and iterate — Play Store listing optimisation, feedback loops and fortnightly releases."
+    ],
+    "mistakes": [
+      "Building every feature before validating the core one.",
+      "Onboarding that asks for too much before showing value.",
+      "A heavy app size that low-end phones cannot keep installed.",
+      "Buying installs before measuring retention.",
+      "Play Store screenshots that do not match the real app."
+    ],
+    "metrics": [
+      "Day 1, Day 7 and Day 30 retention",
+      "Activation rate to the first key action",
+      "Crash-free sessions",
+      "Cost per install versus cost per active user",
+      "Play Store rating and review sentiment"
+    ],
+    "tools": [
+      "Kotlin or Flutter for development",
+      "Firebase for analytics, crash reporting and push notifications",
+      "Google Play Console for releases and store listing experiments",
+      "Figma for UI design and prototypes",
+      "Emulators plus real low-end test devices"
+    ],
+    "tips": [
+      "Validate one core job before building more.",
+      "Reach the first useful moment within a minute.",
+      "Test on low-end phones and slow networks.",
+      "Measure retention before buying installs.",
+      "The store listing must match the real app.",
+      "Ship small updates often."
+    ],
+    "budget": "An MVP Android app in India commonly costs ₹1,50,000 to ₹6,00,000 depending on features, integrations and design, with eight to sixteen weeks to a first release. Budget separately for maintenance and updates after launch.",
+    "faq": [
+      { "q": "How much does it cost to build an Android app in India?", "a": "A simple MVP often starts around ₹1,50,000, while apps with payments, real-time features or complex backends cost significantly more. Scope is the biggest cost driver." },
+      { "q": "Should I build a website or an app first?", "a": "If users need the product occasionally, start with a fast mobile website. Build an app when users need frequent, repeated access, notifications or device features." },
+      { "q": "Flutter or native Kotlin?", "a": "Flutter is efficient when you want Android and iOS from one codebase. Native Kotlin can be better for performance-heavy features or deep Android integrations. Choose based on your roadmap, not the trend." }
+    ]
+  },
+  "WordPress Development": {
+    "keyword": "WordPress website development for businesses",
+    "audience": "businesses and publishers who want a site their team can update",
+    "why": [
+      "WordPress powers a huge share of the web because teams can publish without developers. That flexibility is also the risk: slow themes, plugin overload and messy categories quietly damage speed and SEO.",
+      "A well-built WordPress site gives marketing a safe editing path, strong SEO foundations and performance that holds up as the content library grows."
+    ],
+    "steps": [
+      "Plan the structure — categories, tags, page templates and URL patterns before writing content.",
+      "Choose a lightweight theme — or a block theme you can customise without page-builder bloat.",
+      "Limit plugins — a short list for SEO, caching, security, forms and backups.",
+      "Build editable blocks — reusable patterns so the team can publish without breaking the design.",
+      "Optimise performance — image compression, caching, a CDN and regular database cleanup.",
+      "Maintain monthly — updates, backups, uptime monitoring and content audits."
+    ],
+    "mistakes": [
+      "Installing dozens of plugins for small features.",
+      "Heavy page builders that slow every page.",
+      "No backup or update routine.",
+      "Duplicate categories and tags that confuse search engines.",
+      "Giving every user admin access."
+    ],
+    "metrics": [
+      "Core Web Vitals on key templates",
+      "Organic traffic to posts and pages",
+      "Time for the team to publish a new page",
+      "Plugin count and update status",
+      "Uptime and security incidents"
+    ],
+    "tools": [
+      "A lightweight or block-based theme",
+      "Rank Math or Yoast for SEO",
+      "A caching plugin plus a CDN",
+      "UpdraftPlus or host-level backups",
+      "Wordfence or your host's security features"
+    ],
+    "tips": [
+      "Plan taxonomy before content.",
+      "Fewer plugins, faster site.",
+      "Give editors safe reusable blocks.",
+      "Backups and updates every month.",
+      "Performance is an SEO feature.",
+      "Limit admin access."
+    ],
+    "budget": "A professional WordPress business site in India typically costs ₹20,000 to ₹1,00,000 depending on design and features, plus hosting and an optional maintenance plan. Most builds take three to six weeks.",
+    "faq": [
+      { "q": "Is WordPress still good for SEO?", "a": "Yes, when it is built properly. Clean structure, a fast theme, useful content and a reliable SEO plugin give WordPress sites a strong foundation for ranking." },
+      { "q": "How many plugins are too many?", "a": "There is no fixed number, but every plugin should have a clear job. If two plugins overlap or one is rarely used, remove it. Quality and maintenance matter more than the count." },
+      { "q": "WordPress or Shopify for my business?", "a": "Choose Shopify when ecommerce is the core of the business. Choose WordPress for content-heavy sites, service businesses and publishers who need flexible editing." }
+    ]
+  },
+  "Digital Marketing": {
+    "keyword": "digital marketing strategy for small businesses",
+    "audience": "small business owners balancing organic content, ads and sales",
+    "why": [
+      "Digital marketing works best as a loop: content and SEO build trust, ads bring reach, and sales and retention turn attention into revenue. Brands that treat each channel separately usually pay more for every customer.",
+      "For small businesses the real challenge is focus. A few channels run well beat a presence everywhere that nobody has time to maintain."
+    ],
+    "steps": [
+      "Set one business goal — revenue, leads or bookings for the next 90 days.",
+      "Know the customer — the problems, words and objections they have before buying.",
+      "Choose two core channels — for example SEO plus Meta ads, or Google Search plus Instagram.",
+      "Build the conversion path — landing page, WhatsApp or form, and a follow-up sequence.",
+      "Create a content engine — weekly posts, one long article and short videos from the same idea.",
+      "Review monthly — keep what drives revenue, cut what only drives vanity metrics."
+    ],
+    "mistakes": [
+      "Trying every channel at once with no owner.",
+      "Measuring followers and likes instead of leads and sales.",
+      "Running ads to a weak landing page.",
+      "No follow-up for people who do not buy immediately.",
+      "Changing strategy every few weeks."
+    ],
+    "metrics": [
+      "Revenue or leads by channel",
+      "Customer acquisition cost",
+      "Landing page conversion rate",
+      "Returning customer rate",
+      "Organic traffic and branded search growth"
+    ],
+    "tools": [
+      "Google Analytics 4 and Search Console",
+      "Meta Business Suite and Ads Manager",
+      "WhatsApp Business for follow-up",
+      "Canva and CapCut for content",
+      "A monthly dashboard in Looker Studio"
+    ],
+    "tips": [
+      "Pick one 90-day goal.",
+      "Two channels done well beat five done badly.",
+      "Build the conversion path before scaling traffic.",
+      "Follow up with people who did not buy.",
+      "Measure revenue, not reach.",
+      "Review monthly and change deliberately."
+    ],
+    "budget": "Many small Indian businesses start with ₹15,000 to ₹50,000 a month in ad spend plus content production, then scale what works. Organic channels like SEO usually need three to six months of consistent effort before results compound.",
+    "faq": [
+      { "q": "Which digital marketing channel is best for small businesses?", "a": "It depends on how customers buy. Local services often win with Google Search and Google Business Profile, while visual consumer brands usually grow with Instagram and Meta ads. Start where your buyers already look." },
+      { "q": "How long does digital marketing take to show results?", "a": "Paid ads can bring results within days, while SEO and content typically need three to six months. A healthy strategy combines both so short-term revenue funds long-term growth." },
+      { "q": "How much should a small business spend on digital marketing?", "a": "Start with an amount you can sustain for at least three months, test carefully, and increase spend only on channels that show profitable results." }
+    ]
+  },
+  "UGC Ads": {
+    "keyword": "UGC ads for D2C brands",
+    "audience": "D2C brands using creator and customer content in paid ads",
+    "why": [
+      "User-generated content works because it looks like proof, not advertising. A real person using the product in normal light answers the buyer's biggest question: will this work for someone like me?",
+      "UGC also solves the creative volume problem. Paid social needs new ads every week, and a library of creator clips is faster and cheaper to test than studio shoots."
+    ],
+    "steps": [
+      "Pick the angle — one objection or desire per video, such as fit, fragrance, comfort or value.",
+      "Write a tight brief — hook, key points, proof moment and call to action, without scripting every word.",
+      "Source creators — mix micro creators and real customers who match your audience.",
+      "Collect raw footage — ask for several hooks and angles so editors can build variations.",
+      "Test in batches — launch several hooks at once and keep the ones with the best cost per purchase.",
+      "Build a library — tag clips by angle and product so you can remix them for months."
+    ],
+    "mistakes": [
+      "Over-polishing UGC until it looks like a normal ad.",
+      "Briefing creators on aesthetics instead of the offer and objection.",
+      "Testing one video at a time.",
+      "Using creators who do not look like your real customers.",
+      "Not securing usage rights for paid ads."
+    ],
+    "metrics": [
+      "Hook rate (3-second views)",
+      "Click-through rate and cost per click",
+      "Cost per purchase by creator and angle",
+      "Creative lifespan before fatigue",
+      "Cost per usable clip"
+    ],
+    "tools": [
+      "Creator platforms or direct Instagram outreach",
+      "A written brief template in Google Docs",
+      "CapCut for edits and variations",
+      "Meta Ads Manager for batch testing",
+      "A tagged clip library in Google Drive or Notion"
+    ],
+    "tips": [
+      "UGC should look like proof, not polish.",
+      "Brief the objection, not the lighting.",
+      "Ask creators for multiple hooks.",
+      "Test in batches.",
+      "Match creators to real customers.",
+      "Always secure paid usage rights."
+    ],
+    "budget": "Micro creators in India often charge ₹2,000 to ₹15,000 per video depending on reach and usage rights. Starting with eight to fifteen clips gives enough variety to find winning hooks in the first month.",
+    "faq": [
+      { "q": "What makes a good UGC ad?", "a": "A strong hook in the first two seconds, a real person, a clear demonstration of the product solving one problem and a simple call to action. Authenticity beats production quality." },
+      { "q": "How much do UGC creators charge in India?", "a": "Rates vary widely. Micro creators may charge a few thousand rupees per video, while established creators and those granting long paid-usage rights charge more." },
+      { "q": "Do I need usage rights for UGC ads?", "a": "Yes. Always get written permission to use a creator's content in paid ads, including the duration and platforms, before running it." }
+    ]
+  }
+}
