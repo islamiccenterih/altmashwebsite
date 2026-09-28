@@ -32,12 +32,16 @@ jobs:
 
       - name: Generate blog content
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           REGENERATE: ${{ github.event.inputs.regenerate }}
         run: |
-          if [ -z "$OPENAI_API_KEY" ]; then
-            echo "::warning::OPENAI_API_KEY is not set — using the local composer."
+          if [ -z "$GEMINI_API_KEY$GROQ_API_KEY$OPENAI_API_KEY" ]; then
+            echo "::warning::No AI key set (GEMINI_API_KEY, GROQ_API_KEY or OPENAI_API_KEY) — using the local composer."
           fi
           if [ -n "$REGENERATE" ]; then
             node scripts/generate-daily-blog.mjs --regenerate "$REGENERATE"

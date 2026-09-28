@@ -8,8 +8,11 @@
  *   node scripts/generate-daily-blog.mjs --regenerate 5    rewrite the 5 oldest posts not yet at the best quality
  *   node scripts/generate-daily-blog.mjs --rebuild-only    re-render pages, feeds and sitemap from stored content
  *
- * With OPENAI_API_KEY set, articles are written by OpenAI (model: OPENAI_MODEL, default gpt-4o-mini).
- * Without it, the local composer builds long-form articles from blog/data/playbooks.json.
+ * AI writers are tried in this order, using whichever keys are set:
+ *   GEMINI_API_KEY  Google AI Studio free tier (GEMINI_MODEL, default gemini-3.8-flash)
+ *   GROQ_API_KEY    Groq free tier (GROQ_MODEL, default openai/gpt-oss-120b)
+ *   OPENAI_API_KEY  OpenAI, paid (OPENAI_MODEL, default gpt-4o-mini)
+ * With no key, the local composer builds long-form articles from blog/data/playbooks.json.
  */
 
 import fs from "node:fs";
@@ -47,7 +50,37 @@ const CATEGORY_TERMS = {
   "UGC Ads": "UGC ads",
 };
 const categoryTerm = (category) => CATEGORY_TERMS[category] || category.toLowerCase();
-const QUALITY_RANK = { legacy: 0, local: 1, openai: 2 };
+const qualityRank = (source) => ({ legacy: 0, local: 1 })[source] ?? (source ? 2 : 0);
+
+const AI_PROVIDERS = [
+  {
+    name: "gemini",
+    key: process.env.GEMINI_API_KEY,
+    url: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+    models: [process.env.GEMINI_MODEL || "gemini-3.8-flash", "gemini-3.5-flash-lite"],
+    maxTokens: 16000,
+    extra: { reasoning_effort: "low" },
+  },
+  {
+    name: "groq",
+    key: process.env.GROQ_API_KEY,
+    url: "https://api.groq.com/openai/v1/chat/completions",
+    models: [process.env.GROQ_MODEL || "openai/gpt-oss-120b"],
+    // Groq's free tier rejects requests whose max tokens exceed its 8K tokens-per-minute cap.
+    maxTokens: 6000,
+    extra: { temperature: 0.8, reasoning_effort: "low" },
+  },
+  {
+    name: "openai",
+    key: process.env.OPENAI_API_KEY,
+    url: "https://api.openai.com/v1/chat/completions",
+    models: [process.env.OPENAI_MODEL || "gpt-4o-mini"],
+    maxTokens: 8000,
+    extra: {},
+  },
+]
+  .filter((p) => p.key)
+  .map((p) => ({ ...p, models: [...new Set(p.models.filter(Boolean))] }));
 
 const config = readJson(path.join(blogDir, "config.json"));
 const topics = readJson(path.join(dataDir, "topics.json"));
@@ -167,12 +200,12 @@ async function publishOne(offset = 0) {
 }
 
 async function regeneratePosts(mode) {
-  const targetRank = process.env.OPENAI_API_KEY ? QUALITY_RANK.openai : QUALITY_RANK.local;
+  const targetRank = AI_PROVIDERS.length ? 2 : 1;
   const oldestFirst = [...posts].reverse();
   let queue =
     mode === "all"
       ? oldestFirst
-      : oldestFirst.filter((p) => (QUALITY_RANK[readContent(p.slug)?.source] ?? 0) < targetRank);
+      : oldestFirst.filter((p) => qualityRank(readContent(p.slug)?.source) < targetRank);
   const limit = Number(mode);
   if (Number.isFinite(limit) && limit > 0) queue = queue.slice(0, limit);
 
@@ -194,6 +227,10 @@ async function regeneratePosts(mode) {
       avoidTitles: [],
       keepTitle: true,
     });
+    if (qualityRank(content.source) < qualityRank(readContent(post.slug)?.source)) {
+      console.warn(`Kept existing ${readContent(post.slug).source} version of: ${post.title}`);
+      continue;
+    }
     content.title = post.title;
     applyContentMeta(post, content);
     post.updatedIso = dateInTz(config.timezone, 0).toISOString().slice(0, 10);
@@ -263,25 +300,77 @@ function pickExamples(n = 2) {
 /* ------------------------------------------------------------------ */
 
 async function buildContent(ctx) {
-  if (process.env.OPENAI_API_KEY) {
-    for (let attempt = 1; attempt <= 2; attempt += 1) {
-      try {
-        // eslint-disable-next-line no-await-in-loop
-        const ai = await generateWithOpenAI(ctx);
-        const words = countWords(ai);
-        if (words >= MIN_AI_WORDS) return ai;
-        console.warn(`OpenAI draft too short (${words} words), retrying.`);
-      } catch (error) {
-        console.warn(`OpenAI attempt ${attempt} failed: ${error.message}`);
+  /* eslint-disable no-await-in-loop */
+  for (const provider of AI_PROVIDERS) {
+    for (const model of provider.models) {
+      for (let attempt = 1; attempt <= 2; attempt += 1) {
+        try {
+          const ai = await generateWithAI(provider, model, ctx);
+          const words = countWords(ai);
+          if (words >= MIN_AI_WORDS) return ai;
+          console.warn(`${provider.name}/${model} draft too short (${words} words).`);
+        } catch (error) {
+          console.warn(`${provider.name}/${model} attempt ${attempt} failed: ${error.message}`);
+          if (error.status === 429 && attempt === 1) await sleep(error.retryAfter || 30000);
+          else if (error.status && error.status !== 429 && error.status < 500) break;
+        }
       }
     }
-    console.warn("Falling back to the local composer.");
   }
+  /* eslint-enable no-await-in-loop */
+  if (AI_PROVIDERS.length) console.warn("Falling back to the local composer.");
   return composeLocal(ctx);
 }
 
-async function generateWithOpenAI({ category, title, examples: picked, dateKey, avoidTitles, keepTitle }) {
-  const model = process.env.OPENAI_MODEL || "gpt-4o-mini";
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+const ARTICLE_SCHEMA = {
+  type: "object",
+  properties: {
+    title: { type: "string" },
+    primaryKeyword: { type: "string" },
+    metaDescription: { type: "string" },
+    keywords: { type: "array", items: { type: "string" } },
+    intro: { type: "array", items: { type: "string" } },
+    takeaways: { type: "array", items: { type: "string" } },
+    sections: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: {
+          heading: { type: "string" },
+          paragraphs: { type: "array", items: { type: "string" } },
+          bullets: { type: "array", items: { type: "string" } },
+        },
+        required: ["heading", "paragraphs", "bullets"],
+      },
+    },
+    conclusion: { type: "array", items: { type: "string" } },
+    faq: {
+      type: "array",
+      items: {
+        type: "object",
+        properties: { q: { type: "string" }, a: { type: "string" } },
+        required: ["q", "a"],
+      },
+    },
+  },
+  required: [
+    "title",
+    "primaryKeyword",
+    "metaDescription",
+    "keywords",
+    "intro",
+    "takeaways",
+    "sections",
+    "conclusion",
+    "faq",
+  ],
+};
+
+async function generateWithAI(provider, model, { category, title, examples: picked, dateKey, avoidTitles, keepTitle }) {
   const titleRule = keepTitle
     ? `Use exactly this title: "${title}".`
     : `Working title: "${title}". You may sharpen it for search intent (max 65 characters). Do not reuse any of these existing titles: ${avoidTitles
@@ -318,8 +407,8 @@ Return only JSON with exactly this shape:
 
   const body = {
     model,
-    response_format: { type: "json_object" },
-    max_completion_tokens: 8000,
+    response_format: { type: "json_schema", json_schema: { name: "blog_article", schema: ARTICLE_SCHEMA } },
+    max_completion_tokens: provider.maxTokens,
     messages: [
       {
         role: "system",
@@ -328,22 +417,33 @@ Return only JSON with exactly this shape:
       },
       { role: "user", content: prompt },
     ],
+    ...provider.extra,
   };
-  if (!/^(o\d|gpt-5)/.test(model)) body.temperature = 0.85;
+  if (provider.name === "openai" && !/^(o\d|gpt-5)/.test(model)) body.temperature = 0.85;
 
-  const res = await fetch("https://api.openai.com/v1/chat/completions", {
+  const res = await fetch(provider.url, {
     method: "POST",
     headers: {
-      Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
+      Authorization: `Bearer ${provider.key}`,
       "Content-Type": "application/json",
     },
     body: JSON.stringify(body),
+    signal: AbortSignal.timeout(240000),
   });
-  if (!res.ok) throw new Error(`${res.status} ${(await res.text()).slice(0, 300)}`);
+  if (!res.ok) {
+    const error = new Error(`${res.status} ${(await res.text()).slice(0, 300)}`);
+    error.status = res.status;
+    const retryAfter = Number(res.headers.get("retry-after"));
+    if (retryAfter > 0) error.retryAfter = Math.min(retryAfter, 90) * 1000;
+    throw error;
+  }
   const data = await res.json();
   const text = data.choices?.[0]?.message?.content?.trim() || "";
-  const raw = JSON.parse(text.replace(/^```(?:json)?\s*|\s*```$/g, ""));
-  return normalizeContent(raw, { category, title, avoidTitles, keepTitle }, "openai");
+  const start = text.indexOf("{");
+  const end = text.lastIndexOf("}");
+  if (start < 0 || end <= start) throw new Error("Response did not contain JSON");
+  const raw = JSON.parse(text.slice(start, end + 1));
+  return normalizeContent(raw, { category, title, avoidTitles, keepTitle }, provider.name);
 }
 
 function normalizeContent(raw, ctx, source) {

@@ -6,11 +6,18 @@ Fully auto-publishing blog for https://mohdaltmash.com. A GitHub Action publishe
 Branding, Agency, Meta Ads, Google Ads, Sales, Personal Brand, Website Development, Shopify Development, Android App, WordPress Development, Digital Marketing, UGC Ads
 
 ## Writing quality
-- **With `OPENAI_API_KEY`** (recommended): every article is written fresh by OpenAI — 1,600–2,200 words, its own keyword, headings, FAQ and examples.
-- **Without it**: the local composer builds ~1,000–1,300 word articles from `data/playbooks.json`. Posts in the same category share a lot of wording, so this is a fallback only.
+- **With an AI key** (recommended): every article is written fresh by AI. Each one is 1,600–2,200 words with its own keyword, headings, FAQ and examples.
+- **Without one**: the local composer builds ~1,000–1,300 word articles from `data/playbooks.json`. Posts in the same category share a lot of wording, so this is a fallback only.
 
-Setup: GitHub repo → Settings → Secrets and variables → Actions → **New repository secret** → `OPENAI_API_KEY`.
-Optional: add a repository **variable** `OPENAI_MODEL` to change the model (default `gpt-4o-mini`).
+AI writers are tried in this order, using whichever repository secrets are set:
+
+| Secret | Cost | Where to get it | Optional model variable |
+| --- | --- | --- | --- |
+| `GEMINI_API_KEY` | Free tier, no card | https://aistudio.google.com/apikey | `GEMINI_MODEL` (default `gemini-3.8-flash`, falls back to `gemini-3.5-flash-lite`) |
+| `GROQ_API_KEY` | Free tier, no card | https://console.groq.com/keys | `GROQ_MODEL` (default `openai/gpt-oss-120b`) |
+| `OPENAI_API_KEY` | Paid | https://platform.openai.com/api-keys | `OPENAI_MODEL` (default `gpt-4o-mini`) |
+
+Setup: GitHub repo → Settings → Secrets and variables → Actions → **New repository secret**.
 
 ## Commands
 ```bash
