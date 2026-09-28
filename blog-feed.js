@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-09-29-scripts-that-discover-pain-without-sounding-like-a-call-center",
+    "date": "Sep 2026",
+    "title": "Scripts that discover pain without sounding like a call center",
+    "excerpt": "Scripts that discover pain without sounding like a call center — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Sales",
+    "readTime": "5 min read",
+    "href": "/blog/2026-09-29-scripts-that-discover-pain-without-sounding-like-a-call-center/"
+  },
+  {
     "id": "2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos",
     "date": "Sep 2026",
     "title": "Performance Max for ecommerce: asset groups without the chaos",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Meta Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack/"
-  },
-  {
-    "id": "2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model",
-    "date": "Sep 2026",
-    "title": "Agency vs freelancer: when founders should upgrade the model",
-    "excerpt": "Agency vs freelancer: when founders should upgrade the model — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Agency",
-    "readTime": "5 min read",
-    "href": "/blog/2026-09-26-agency-vs-freelancer-when-founders-should-upgrade-the-model/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 13,
-  "total": 16,
+  "archiveCount": 14,
+  "total": 17,
   "viewMore": "/blog/#archive"
 };

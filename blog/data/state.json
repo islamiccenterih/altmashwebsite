@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 4,
+  "categoryIndex": 5,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -16,7 +16,8 @@
     "How to build a brand identity that sells, not just looks pretty",
     "Agency vs freelancer: when founders should upgrade the model",
     "Why your Meta pixel setup matters more than another ad account hack",
-    "Performance Max for ecommerce: asset groups without the chaos"
+    "Performance Max for ecommerce: asset groups without the chaos",
+    "Scripts that discover pain without sounding like a call center"
   ],
   "usedExamples": [
     "android-fintech",
@@ -50,7 +51,9 @@
     "thredsy-apparel-shoes",
     "local-services-ads",
     "ranglook-ethnic",
-    "jaipur-tex-saree"
+    "jaipur-tex-saree",
+    "hey-gentleman-shoes",
+    "pop-naari-ethnic"
   ],
-  "lastRun": "2026-09-28"
+  "lastRun": "2026-09-29"
 }
