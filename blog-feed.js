@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-09-30-how-altmash-documents-process-publicly-without-giving-away-the-moat",
+    "date": "Sep 2026",
+    "title": "How Altmash documents process publicly without giving away the moat",
+    "excerpt": "How Altmash documents process publicly without giving away the moat — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Personal Brand",
+    "readTime": "5 min read",
+    "href": "/blog/2026-09-30-how-altmash-documents-process-publicly-without-giving-away-the-moat/"
+  },
+  {
     "id": "2026-09-29-scripts-that-discover-pain-without-sounding-like-a-call-center",
     "date": "Sep 2026",
     "title": "Scripts that discover pain without sounding like a call center",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Google Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos/"
-  },
-  {
-    "id": "2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack",
-    "date": "Sep 2026",
-    "title": "Why your Meta pixel setup matters more than another ad account hack",
-    "excerpt": "Why your Meta pixel setup matters more than another ad account hack — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Meta Ads",
-    "readTime": "5 min read",
-    "href": "/blog/2026-09-27-why-your-meta-pixel-setup-matters-more-than-another-ad-account-hack/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 14,
-  "total": 17,
+  "archiveCount": 15,
+  "total": 18,
   "viewMore": "/blog/#archive"
 };

@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 5,
+  "categoryIndex": 6,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -17,7 +17,8 @@
     "Agency vs freelancer: when founders should upgrade the model",
     "Why your Meta pixel setup matters more than another ad account hack",
     "Performance Max for ecommerce: asset groups without the chaos",
-    "Scripts that discover pain without sounding like a call center"
+    "Scripts that discover pain without sounding like a call center",
+    "How Altmash documents process publicly without giving away the moat"
   ],
   "usedExamples": [
     "android-fintech",
@@ -53,7 +54,9 @@
     "ranglook-ethnic",
     "jaipur-tex-saree",
     "hey-gentleman-shoes",
-    "pop-naari-ethnic"
+    "pop-naari-ethnic",
+    "islamic-center-hub",
+    "insane-look-drop"
   ],
-  "lastRun": "2026-09-29"
+  "lastRun": "2026-09-30"
 }
