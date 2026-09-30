@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-01-ctas-forms-and-whatsapp-conversion-paths-that-match-indian-buyers",
+    "date": "Oct 2026",
+    "title": "CTAs, forms, and WhatsApp: conversion paths that match Indian buyers",
+    "excerpt": "CTAs, forms, and WhatsApp: conversion paths that match Indian buyers — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Website Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-01-ctas-forms-and-whatsapp-conversion-paths-that-match-indian-buyers/"
+  },
+  {
     "id": "2026-09-30-how-altmash-documents-process-publicly-without-giving-away-the-moat",
     "date": "Sep 2026",
     "title": "How Altmash documents process publicly without giving away the moat",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Sales",
     "readTime": "5 min read",
     "href": "/blog/2026-09-29-scripts-that-discover-pain-without-sounding-like-a-call-center/"
-  },
-  {
-    "id": "2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos",
-    "date": "Sep 2026",
-    "title": "Performance Max for ecommerce: asset groups without the chaos",
-    "excerpt": "Performance Max for ecommerce: asset groups without the chaos — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Google Ads",
-    "readTime": "5 min read",
-    "href": "/blog/2026-09-28-performance-max-for-ecommerce-asset-groups-without-the-chaos/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 15,
-  "total": 18,
+  "archiveCount": 16,
+  "total": 19,
   "viewMore": "/blog/#archive"
 };
