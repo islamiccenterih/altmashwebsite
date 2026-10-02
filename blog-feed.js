@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-03-play-store-screenshots-and-listing-seo-that-improve-installs",
+    "date": "Oct 2026",
+    "title": "Play Store screenshots and listing SEO that improve installs",
+    "excerpt": "Play Store screenshots and listing SEO that improve installs — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Android App",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-03-play-store-screenshots-and-listing-seo-that-improve-installs/"
+  },
+  {
     "id": "2026-10-02-apps-vs-custom-shopify-work-what-is-worth-paying-for",
     "date": "Oct 2026",
     "title": "Apps vs custom Shopify work: what is worth paying for",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Website Development",
     "readTime": "5 min read",
     "href": "/blog/2026-10-01-ctas-forms-and-whatsapp-conversion-paths-that-match-indian-buyers/"
-  },
-  {
-    "id": "2026-09-30-how-altmash-documents-process-publicly-without-giving-away-the-moat",
-    "date": "Sep 2026",
-    "title": "How Altmash documents process publicly without giving away the moat",
-    "excerpt": "How Altmash documents process publicly without giving away the moat — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Personal Brand",
-    "readTime": "5 min read",
-    "href": "/blog/2026-09-30-how-altmash-documents-process-publicly-without-giving-away-the-moat/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 17,
-  "total": 20,
+  "archiveCount": 18,
+  "total": 21,
   "viewMore": "/blog/#archive"
 };
