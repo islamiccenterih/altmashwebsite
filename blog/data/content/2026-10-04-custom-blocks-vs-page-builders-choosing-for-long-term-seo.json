@@ -1,0 +1,137 @@
+{
+  "title": "Custom blocks vs page builders: choosing for long-term SEO",
+  "primaryKeyword": "WordPress website development for businesses",
+  "metaDescription": "Custom blocks vs page builders: choosing for long-term SEO — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+  "keywords": [
+    "WordPress website development for businesses",
+    "WordPress development",
+    "WordPress development India",
+    "WordPress development tips",
+    "WordPress development strategy",
+    "Altmash",
+    "branding agency India"
+  ],
+  "intro": [
+    "Most advice about WordPress website development for businesses is either too generic or written by people who have never had to hit a monthly target with it. I am Altmash, and everything in this guide comes from running live brands across fashion, ethnic wear, footwear, perfume and community platforms.",
+    "Below I walk through why it matters, a step-by-step process, the mistakes I see most often, what to measure and a practical 30-day plan you can start this week."
+  ],
+  "takeaways": [
+    "Performance is an SEO feature.",
+    "Give editors safe reusable blocks.",
+    "Plan taxonomy before content.",
+    "Backups and updates every month."
+  ],
+  "sections": [
+    {
+      "heading": "Why WordPress website development for businesses matters more than most founders think",
+      "paragraphs": [
+        "WordPress powers a huge share of the web because teams can publish without developers. That flexibility is also the risk: slow themes, plugin overload and messy categories quietly damage speed and SEO.",
+        "A well-built WordPress site gives marketing a safe editing path, strong SEO foundations and performance that holds up as the content library grows.",
+        "That is why I never start with tactics. I start by asking what the business needs from WordPress development in the next 90 days, and then build only what serves that goal."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "How much time and money WordPress development takes",
+      "paragraphs": [
+        "A professional WordPress business site in India typically costs ₹20,000 to ₹1,00,000 depending on design and features, plus hosting and an optional maintenance plan. Most builds take three to six weeks.",
+        "These ranges are starting points, not quotes. The right number depends on your category, your margins and how much of the work your team can handle in-house. What matters most is committing to a test long enough to learn from it."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "The 6-step framework I use",
+      "paragraphs": [
+        "Here is the process I follow. The order matters: each step removes a reason for the next one to fail.",
+        "Do not skip the early steps to get to the exciting part. In my experience, most WordPress development problems that look like execution issues are really decisions that were never made at the start."
+      ],
+      "bullets": [
+        "Plan the structure: categories, tags, page templates and URL patterns before writing content.",
+        "Choose a lightweight theme: or a block theme you can customise without page-builder bloat.",
+        "Limit plugins: a short list for SEO, caching, security, forms and backups.",
+        "Build editable blocks: reusable patterns so the team can publish without breaking the design.",
+        "Optimise performance: image compression, caching, a CDN and regular database cleanup.",
+        "Maintain monthly: updates, backups, uptime monitoring and content audits."
+      ]
+    },
+    {
+      "heading": "Mistakes that quietly waste money",
+      "paragraphs": [
+        "These are the mistakes I see most often when I audit brands. Each one looks small on its own; together they explain why results stall.",
+        "If you recognise two or more of these in your own business, fix them before adding budget. More spend on a broken system only makes the problem more expensive."
+      ],
+      "bullets": [
+        "Installing dozens of plugins for small features.",
+        "Heavy page builders that slow every page.",
+        "No backup or update routine.",
+        "Duplicate categories and tags that confuse search engines.",
+        "Giving every user admin access."
+      ]
+    },
+    {
+      "heading": "Lessons from brands I have worked on",
+      "paragraphs": [
+        "One example from my own work: A founder’s personal brand started converting inbound only after content showed process and receipts — not motivational quotes.",
+        "That lesson applies directly to WordPress development: fix the input before you push more budget or effort through it.",
+        "Another: A Shopify apparel store lifted AOV with a single post-purchase upsell tied to the exact product just bought — not a generic “you may also like” grid.",
+        "The details differ by category, but the principle holds: when the brand, the page and the channel tell one story, WordPress development becomes cheaper and more predictable."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "How to know if it is working",
+      "paragraphs": [
+        "Pick a small set of numbers and review them every week in the same place. I prefer five metrics the whole team understands over a dashboard nobody opens.",
+        "Look at trends over four to eight weeks rather than daily swings, and always tie the numbers back to revenue or qualified leads."
+      ],
+      "bullets": [
+        "Core Web Vitals on key templates",
+        "Organic traffic to posts and pages",
+        "Time for the team to publish a new page",
+        "Plugin count and update status",
+        "Uptime and security incidents"
+      ]
+    },
+    {
+      "heading": "Putting it into action: a 30-day plan",
+      "paragraphs": [
+        "If you want to move quickly, here is how I would sequence the first month.",
+        "At the end of the month you will have real data instead of opinions — and a clear picture of where to invest next."
+      ],
+      "bullets": [
+        "Week 1: Plan the structure and choose a lightweight theme.",
+        "Week 2: Limit plugins.",
+        "Week 3: Build editable blocks and optimise performance.",
+        "Week 4: Maintain monthly, then review your metrics and decide what to keep."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The brands that get WordPress development right are rarely the ones with the biggest budgets. They are the ones with clear decisions, a weekly rhythm and someone who owns the result. Put those three in place and the rest becomes much easier.",
+    "If you want help applying this to your brand, message me on WhatsApp. I am Altmash, and I build and run brands end to end — website, identity, ads and the systems that keep them growing."
+  ],
+  "faq": [
+    {
+      "q": "Is WordPress still good for SEO?",
+      "a": "Yes, when it is built properly. Clean structure, a fast theme, useful content and a reliable SEO plugin give WordPress sites a strong foundation for ranking."
+    },
+    {
+      "q": "How many plugins are too many?",
+      "a": "There is no fixed number, but every plugin should have a clear job. If two plugins overlap or one is rarely used, remove it. Quality and maintenance matter more than the count."
+    },
+    {
+      "q": "WordPress or Shopify for my business?",
+      "a": "Choose Shopify when ecommerce is the core of the business. Choose WordPress for content-heavy sites, service businesses and publishers who need flexible editing."
+    },
+    {
+      "q": "What is the first thing to fix in WordPress development?",
+      "a": "Start with clarity: who it is for, what the offer is and what action you want next. Most WordPress development problems that look technical are really unclear decisions made earlier."
+    },
+    {
+      "q": "Can I handle WordPress development myself or should I hire help?",
+      "a": "You can start yourself if you follow a clear process and review the numbers every week. Bring in help when the work starts eating time you should spend on product and sales, or when results plateau and you cannot see why."
+    }
+  ],
+  "source": "local",
+  "generatedAt": "2026-10-03T21:57:22.710Z"
+}
