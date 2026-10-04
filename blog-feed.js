@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-05-measurement-that-founders-understand-kpis-without-dashboard-theater",
+    "date": "Oct 2026",
+    "title": "Measurement that founders understand: KPIs without dashboard theater",
+    "excerpt": "Measurement that founders understand: KPIs without dashboard theater — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Digital Marketing",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-05-measurement-that-founders-understand-kpis-without-dashboard-theater/"
+  },
+  {
     "id": "2026-10-04-custom-blocks-vs-page-builders-choosing-for-long-term-seo",
     "date": "Oct 2026",
     "title": "Custom blocks vs page builders: choosing for long-term SEO",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Android App",
     "readTime": "5 min read",
     "href": "/blog/2026-10-03-play-store-screenshots-and-listing-seo-that-improve-installs/"
-  },
-  {
-    "id": "2026-10-02-apps-vs-custom-shopify-work-what-is-worth-paying-for",
-    "date": "Oct 2026",
-    "title": "Apps vs custom Shopify work: what is worth paying for",
-    "excerpt": "Apps vs custom Shopify work: what is worth paying for — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Shopify Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-02-apps-vs-custom-shopify-work-what-is-worth-paying-for/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 19,
-  "total": 22,
+  "archiveCount": 20,
+  "total": 23,
   "viewMore": "/blog/#archive"
 };

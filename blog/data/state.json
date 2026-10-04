@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 10,
+  "categoryIndex": 11,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -22,7 +22,8 @@
     "CTAs, forms, and WhatsApp: conversion paths that match Indian buyers",
     "Apps vs custom Shopify work: what is worth paying for",
     "Play Store screenshots and listing SEO that improve installs",
-    "Custom blocks vs page builders: choosing for long-term SEO"
+    "Custom blocks vs page builders: choosing for long-term SEO",
+    "Measurement that founders understand: KPIs without dashboard theater"
   ],
   "usedExamples": [
     "android-fintech",
@@ -62,5 +63,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-04"
+  "lastRun": "2026-10-05"
 }
