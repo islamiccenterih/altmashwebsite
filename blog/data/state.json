@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 11,
+  "categoryIndex": 0,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -23,7 +23,8 @@
     "Apps vs custom Shopify work: what is worth paying for",
     "Play Store screenshots and listing SEO that improve installs",
     "Custom blocks vs page builders: choosing for long-term SEO",
-    "Measurement that founders understand: KPIs without dashboard theater"
+    "Measurement that founders understand: KPIs without dashboard theater",
+    "UGC ads that outperform studio creatives for ecommerce brands"
   ],
   "usedExamples": [
     "android-fintech",
@@ -63,5 +64,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-05"
+  "lastRun": "2026-10-06"
 }
