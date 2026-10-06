@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 0,
+  "categoryIndex": 1,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -24,7 +24,8 @@
     "Play Store screenshots and listing SEO that improve installs",
     "Custom blocks vs page builders: choosing for long-term SEO",
     "Measurement that founders understand: KPIs without dashboard theater",
-    "UGC ads that outperform studio creatives for ecommerce brands"
+    "UGC ads that outperform studio creatives for ecommerce brands",
+    "Why consistency beats redesigns for growing Indian brands"
   ],
   "usedExamples": [
     "android-fintech",
@@ -64,5 +65,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-06"
+  "lastRun": "2026-10-07"
 }

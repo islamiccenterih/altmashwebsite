@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-07-why-consistency-beats-redesigns-for-growing-indian-brands",
+    "date": "Oct 2026",
+    "title": "Why consistency beats redesigns for growing Indian brands",
+    "excerpt": "Why consistency beats redesigns for growing Indian brands — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Branding",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-07-why-consistency-beats-redesigns-for-growing-indian-brands/"
+  },
+  {
     "id": "2026-10-06-ugc-ads-that-outperform-studio-creatives-for-ecommerce-brands",
     "date": "Oct 2026",
     "title": "UGC ads that outperform studio creatives for ecommerce brands",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Digital Marketing",
     "readTime": "5 min read",
     "href": "/blog/2026-10-05-measurement-that-founders-understand-kpis-without-dashboard-theater/"
-  },
-  {
-    "id": "2026-10-04-custom-blocks-vs-page-builders-choosing-for-long-term-seo",
-    "date": "Oct 2026",
-    "title": "Custom blocks vs page builders: choosing for long-term SEO",
-    "excerpt": "Custom blocks vs page builders: choosing for long-term SEO — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "WordPress Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-04-custom-blocks-vs-page-builders-choosing-for-long-term-seo/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 21,
-  "total": 24,
+  "archiveCount": 22,
+  "total": 25,
   "viewMore": "/blog/#archive"
 };
