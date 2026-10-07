@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-10-08-how-altmash-runs-agency-retainers-without-disappearing-after-go-live",
+      "date": "Oct 2026",
+      "title": "How Altmash runs agency retainers without disappearing after go-live",
+      "excerpt": "How Altmash runs agency retainers without disappearing after go-live — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Agency",
+      "readTime": "5 min read",
+      "href": "/blog/2026-10-08-how-altmash-runs-agency-retainers-without-disappearing-after-go-live/"
+    },
+    {
       "id": "2026-10-07-why-consistency-beats-redesigns-for-growing-indian-brands",
       "date": "Oct 2026",
       "title": "Why consistency beats redesigns for growing Indian brands",
@@ -17,18 +26,9 @@
       "tag": "UGC Ads",
       "readTime": "5 min read",
       "href": "/blog/2026-10-06-ugc-ads-that-outperform-studio-creatives-for-ecommerce-brands/"
-    },
-    {
-      "id": "2026-10-05-measurement-that-founders-understand-kpis-without-dashboard-theater",
-      "date": "Oct 2026",
-      "title": "Measurement that founders understand: KPIs without dashboard theater",
-      "excerpt": "Measurement that founders understand: KPIs without dashboard theater — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Digital Marketing",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-05-measurement-that-founders-understand-kpis-without-dashboard-theater/"
     }
   ],
-  "archiveCount": 22,
-  "total": 25,
+  "archiveCount": 23,
+  "total": 26,
   "viewMore": "/blog/#archive"
 }
