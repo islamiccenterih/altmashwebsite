@@ -1,0 +1,135 @@
+{
+  "title": "Retargeting that respects margins: a practical Meta Ads playbook",
+  "primaryKeyword": "Meta ads for Indian ecommerce brands",
+  "metaDescription": "Retargeting that respects margins: a practical Meta Ads playbook — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+  "keywords": [
+    "Meta ads for Indian ecommerce brands",
+    "Meta ads",
+    "Meta ads India",
+    "Meta ads tips",
+    "Meta ads strategy",
+    "Altmash",
+    "branding agency India"
+  ],
+  "intro": [
+    "If you are one of the D2C and ecommerce founders running Facebook and Instagram ads, this article is for you. Retargeting that respects margins: a practical Meta Ads playbook sounds simple on paper, but in practice it touches your offer, your pages, your team and your budget at the same time — which is why I, Altmash, approach it as an operating system rather than a tactic.",
+    "This guide is written for doers: clear steps, honest trade-offs, realistic budgets for Indian brands and a checklist you can hand to your team today."
+  ],
+  "takeaways": [
+    "Test hooks in batches, not one-offs.",
+    "Fewer, broader campaigns learn faster.",
+    "Fresh creatives every week protect your winners.",
+    "Kill losers in 48 to 72 hours."
+  ],
+  "sections": [
+    {
+      "heading": "Why Meta ads for Indian ecommerce brands matters more than most founders think",
+      "paragraphs": [
+        "Meta is still the fastest way for most Indian D2C brands to reach cold buyers at scale. The algorithm is good at finding people; what it cannot fix is a weak offer, a slow page or creatives that look like every other brand in the feed.",
+        "Most wasted Meta budget comes from structure and inputs rather than targeting: broken pixel events, too many tiny ad sets, and creatives that are tested once and never iterated.",
+        "The good news is that none of this needs a big team. It needs clear decisions, a weekly rhythm and someone who owns the result after launch — which is exactly how I run Meta ads for the brands I manage."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "How much time and money Meta ads takes",
+      "paragraphs": [
+        "Many Indian D2C brands start Meta testing with ₹1,000 to ₹3,000 a day. Give a new campaign at least seven to ten days before judging it, and while conversion volume is low, focus on finding winning creatives rather than building complex structures.",
+        "These ranges are starting points, not quotes. The right number depends on your category, your margins and how much of the work your team can handle in-house. What matters most is committing to a test long enough to learn from it."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "A step-by-step process for Meta ads for Indian ecommerce brands",
+      "paragraphs": [
+        "Here is the process I follow. The order matters: each step removes a reason for the next one to fail.",
+        "Do not skip the early steps to get to the exciting part. In my experience, most Meta ads problems that look like execution issues are really decisions that were never made at the start."
+      ],
+      "bullets": [
+        "Fix tracking: install the pixel and Conversions API, and confirm purchase and add-to-cart events fire with correct values.",
+        "Simplify structure: one prospecting campaign with broad targeting and one retargeting campaign is enough for most budgets.",
+        "Build a creative matrix: test three hooks, two formats and two offers instead of random one-off ads.",
+        "Set kill rules: pause ads that miss your cost-per-add-to-cart threshold after 48 to 72 hours of spend.",
+        "Scale winners slowly: raise budgets 20 to 30 percent every few days or duplicate into a new campaign.",
+        "Refresh weekly: ship new creatives every week so frequency never burns out your best audience."
+      ]
+    },
+    {
+      "heading": "The tool stack for Meta ads",
+      "paragraphs": [
+        "You do not need expensive software to do this well. This is the stack I usually start with:",
+        "Tools only help when someone owns them. Assign one person to each tool, document the setup, and keep every login in the brand's name rather than a freelancer's personal account."
+      ],
+      "bullets": [
+        "Meta Ads Manager and Events Manager",
+        "Conversions API through Shopify or a server-side setup",
+        "Meta Ad Library for competitor creative research",
+        "CapCut or Canva for fast creative iterations",
+        "A creative testing log in Google Sheets"
+      ]
+    },
+    {
+      "heading": "What is different for brands in India",
+      "paragraphs": [
+        "Indian buyers are mobile-first, value-conscious and quick to message a brand on WhatsApp before they buy. Page speed on patchy networks, clear pricing, easy payment options and fast replies are part of Meta ads, not separate from it.",
+        "Festive seasons, regional preferences and cash-on-delivery habits also shape results. Plan your calendar around them instead of treating every month the same."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "The numbers that actually matter for Meta ads",
+      "paragraphs": [
+        "Pick a small set of numbers and review them every week in the same place. I prefer five metrics the whole team understands over a dashboard nobody opens.",
+        "Look at trends over four to eight weeks rather than daily swings, and always tie the numbers back to revenue or qualified leads."
+      ],
+      "bullets": [
+        "Cost per purchase and ROAS by campaign",
+        "Link click-through rate and cost per click",
+        "Add-to-cart rate from ad traffic",
+        "Frequency on prospecting campaigns",
+        "Hook rate (3-second video views) on new creatives"
+      ]
+    },
+    {
+      "heading": "Putting it into action: a 30-day plan",
+      "paragraphs": [
+        "If you want to move quickly, here is how I would sequence the first month.",
+        "At the end of the month you will have real data instead of opinions — and a clear picture of where to invest next."
+      ],
+      "bullets": [
+        "Week 1: Fix tracking and simplify structure.",
+        "Week 2: Build a creative matrix.",
+        "Week 3: Set kill rules and scale winners slowly.",
+        "Week 4: Refresh weekly, then review your metrics and decide what to keep."
+      ]
+    }
+  ],
+  "conclusion": [
+    "The brands that get Meta ads right are rarely the ones with the biggest budgets. They are the ones with clear decisions, a weekly rhythm and someone who owns the result. Put those three in place and the rest becomes much easier.",
+    "If you want help applying this to your brand, message me on WhatsApp. I am Altmash, and I build and run brands end to end — website, identity, ads and the systems that keep them growing."
+  ],
+  "faq": [
+    {
+      "q": "How much should I spend on Meta ads to start?",
+      "a": "A practical starting point for many Indian brands is ₹1,000 to ₹3,000 per day for at least one to two weeks. The goal of the first month is to find winning creatives and offers, not instant profit."
+    },
+    {
+      "q": "Is broad targeting better than interests?",
+      "a": "With a working pixel and strong creatives, broad targeting often performs as well or better because Meta has more room to optimise. Interests can still help when you have very little conversion data."
+    },
+    {
+      "q": "Why did my Meta ads suddenly stop working?",
+      "a": "Common reasons are creative fatigue, rising frequency, a tracking issue after a site change, or an offer that lost relevance. Check events first, then refresh creatives before rebuilding campaigns."
+    },
+    {
+      "q": "What is the first thing to fix in Meta ads?",
+      "a": "Start with clarity: who it is for, what the offer is and what action you want next. Most Meta ads problems that look technical are really unclear decisions made earlier."
+    },
+    {
+      "q": "Can I handle Meta ads myself or should I hire help?",
+      "a": "You can start yourself if you follow a clear process and review the numbers every week. Bring in help when the work starts eating time you should spend on product and sales, or when results plateau and you cannot see why."
+    }
+  ],
+  "source": "local",
+  "generatedAt": "2026-10-08T23:37:33.054Z"
+}

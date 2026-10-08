@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-10-09-retargeting-that-respects-margins-a-practical-meta-ads-playbook",
+      "date": "Oct 2026",
+      "title": "Retargeting that respects margins: a practical Meta Ads playbook",
+      "excerpt": "Retargeting that respects margins: a practical Meta Ads playbook — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Meta Ads",
+      "readTime": "5 min read",
+      "href": "/blog/2026-10-09-retargeting-that-respects-margins-a-practical-meta-ads-playbook/"
+    },
+    {
       "id": "2026-10-08-how-altmash-runs-agency-retainers-without-disappearing-after-go-live",
       "date": "Oct 2026",
       "title": "How Altmash runs agency retainers without disappearing after go-live",
@@ -17,18 +26,9 @@
       "tag": "Branding",
       "readTime": "5 min read",
       "href": "/blog/2026-10-07-why-consistency-beats-redesigns-for-growing-indian-brands/"
-    },
-    {
-      "id": "2026-10-06-ugc-ads-that-outperform-studio-creatives-for-ecommerce-brands",
-      "date": "Oct 2026",
-      "title": "UGC ads that outperform studio creatives for ecommerce brands",
-      "excerpt": "UGC ads that outperform studio creatives for ecommerce brands — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "UGC Ads",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-06-ugc-ads-that-outperform-studio-creatives-for-ecommerce-brands/"
     }
   ],
-  "archiveCount": 23,
-  "total": 26,
+  "archiveCount": 24,
+  "total": 27,
   "viewMore": "/blog/#archive"
 }
