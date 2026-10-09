@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-10-how-altmash-maps-keywords-to-pages-for-cleaner-quality-scores",
+    "date": "Oct 2026",
+    "title": "How Altmash maps keywords to pages for cleaner Quality Scores",
+    "excerpt": "How Altmash maps keywords to pages for cleaner Quality Scores — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Google Ads",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-10-how-altmash-maps-keywords-to-pages-for-cleaner-quality-scores/"
+  },
+  {
     "id": "2026-10-09-retargeting-that-respects-margins-a-practical-meta-ads-playbook",
     "date": "Oct 2026",
     "title": "Retargeting that respects margins: a practical Meta Ads playbook",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Agency",
     "readTime": "5 min read",
     "href": "/blog/2026-10-08-how-altmash-runs-agency-retainers-without-disappearing-after-go-live/"
-  },
-  {
-    "id": "2026-10-07-why-consistency-beats-redesigns-for-growing-indian-brands",
-    "date": "Oct 2026",
-    "title": "Why consistency beats redesigns for growing Indian brands",
-    "excerpt": "Why consistency beats redesigns for growing Indian brands — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Branding",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-07-why-consistency-beats-redesigns-for-growing-indian-brands/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 24,
-  "total": 27,
+  "archiveCount": 25,
+  "total": 28,
   "viewMore": "/blog/#archive"
 };
