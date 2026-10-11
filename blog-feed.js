@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-12-why-receipts-beat-motivation-posts-in-personal-branding",
+    "date": "Oct 2026",
+    "title": "Why receipts beat motivation posts in personal branding",
+    "excerpt": "Why receipts beat motivation posts in personal branding — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Personal Brand",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-12-why-receipts-beat-motivation-posts-in-personal-branding/"
+  },
+  {
     "id": "2026-10-11-whatsapp-sales-systems-for-indian-brands-that-want-faster-closes",
     "date": "Oct 2026",
     "title": "WhatsApp sales systems for Indian brands that want faster closes",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Google Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-10-10-how-altmash-maps-keywords-to-pages-for-cleaner-quality-scores/"
-  },
-  {
-    "id": "2026-10-09-retargeting-that-respects-margins-a-practical-meta-ads-playbook",
-    "date": "Oct 2026",
-    "title": "Retargeting that respects margins: a practical Meta Ads playbook",
-    "excerpt": "Retargeting that respects margins: a practical Meta Ads playbook — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Meta Ads",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-09-retargeting-that-respects-margins-a-practical-meta-ads-playbook/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 26,
-  "total": 29,
+  "archiveCount": 27,
+  "total": 30,
   "viewMore": "/blog/#archive"
 };
