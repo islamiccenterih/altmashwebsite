@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-14-how-altmash-structures-shopify-collections-for-ads-and-seo",
+    "date": "Oct 2026",
+    "title": "How Altmash structures Shopify collections for ads and SEO",
+    "excerpt": "How Altmash structures Shopify collections for ads and SEO — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Shopify Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-14-how-altmash-structures-shopify-collections-for-ads-and-seo/"
+  },
+  {
     "id": "2026-10-13-how-altmash-ships-websites-meant-to-sell-not-just-impress",
     "date": "Oct 2026",
     "title": "How Altmash ships websites meant to sell, not just impress",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Personal Brand",
     "readTime": "5 min read",
     "href": "/blog/2026-10-12-why-receipts-beat-motivation-posts-in-personal-branding/"
-  },
-  {
-    "id": "2026-10-11-whatsapp-sales-systems-for-indian-brands-that-want-faster-closes",
-    "date": "Oct 2026",
-    "title": "WhatsApp sales systems for Indian brands that want faster closes",
-    "excerpt": "WhatsApp sales systems for Indian brands that want faster closes — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Sales",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-11-whatsapp-sales-systems-for-indian-brands-that-want-faster-closes/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 28,
-  "total": 31,
+  "archiveCount": 29,
+  "total": 32,
   "viewMore": "/blog/#archive"
 };
