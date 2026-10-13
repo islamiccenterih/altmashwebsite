@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-13-how-altmash-ships-websites-meant-to-sell-not-just-impress",
+    "date": "Oct 2026",
+    "title": "How Altmash ships websites meant to sell, not just impress",
+    "excerpt": "How Altmash ships websites meant to sell, not just impress — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Website Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-13-how-altmash-ships-websites-meant-to-sell-not-just-impress/"
+  },
+  {
     "id": "2026-10-12-why-receipts-beat-motivation-posts-in-personal-branding",
     "date": "Oct 2026",
     "title": "Why receipts beat motivation posts in personal branding",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Sales",
     "readTime": "5 min read",
     "href": "/blog/2026-10-11-whatsapp-sales-systems-for-indian-brands-that-want-faster-closes/"
-  },
-  {
-    "id": "2026-10-10-how-altmash-maps-keywords-to-pages-for-cleaner-quality-scores",
-    "date": "Oct 2026",
-    "title": "How Altmash maps keywords to pages for cleaner Quality Scores",
-    "excerpt": "How Altmash maps keywords to pages for cleaner Quality Scores — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Google Ads",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-10-how-altmash-maps-keywords-to-pages-for-cleaner-quality-scores/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 27,
-  "total": 30,
+  "archiveCount": 28,
+  "total": 31,
   "viewMore": "/blog/#archive"
 };
