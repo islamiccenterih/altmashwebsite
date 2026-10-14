@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-15-how-altmash-thinks-about-mobile-product-ux-for-retention",
+    "date": "Oct 2026",
+    "title": "How Altmash thinks about mobile product UX for retention",
+    "excerpt": "How Altmash thinks about mobile product UX for retention — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Android App",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-15-how-altmash-thinks-about-mobile-product-ux-for-retention/"
+  },
+  {
     "id": "2026-10-14-how-altmash-structures-shopify-collections-for-ads-and-seo",
     "date": "Oct 2026",
     "title": "How Altmash structures Shopify collections for ads and SEO",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Website Development",
     "readTime": "5 min read",
     "href": "/blog/2026-10-13-how-altmash-ships-websites-meant-to-sell-not-just-impress/"
-  },
-  {
-    "id": "2026-10-12-why-receipts-beat-motivation-posts-in-personal-branding",
-    "date": "Oct 2026",
-    "title": "Why receipts beat motivation posts in personal branding",
-    "excerpt": "Why receipts beat motivation posts in personal branding — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Personal Brand",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-12-why-receipts-beat-motivation-posts-in-personal-branding/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 29,
-  "total": 32,
+  "archiveCount": 30,
+  "total": 33,
   "viewMore": "/blog/#archive"
 };
