@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-16-security-and-speed-basics-every-wordpress-brand-site-needs",
+    "date": "Oct 2026",
+    "title": "Security and speed basics every WordPress brand site needs",
+    "excerpt": "Security and speed basics every WordPress brand site needs — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "WordPress Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-16-security-and-speed-basics-every-wordpress-brand-site-needs/"
+  },
+  {
     "id": "2026-10-15-how-altmash-thinks-about-mobile-product-ux-for-retention",
     "date": "Oct 2026",
     "title": "How Altmash thinks about mobile product UX for retention",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Shopify Development",
     "readTime": "5 min read",
     "href": "/blog/2026-10-14-how-altmash-structures-shopify-collections-for-ads-and-seo/"
-  },
-  {
-    "id": "2026-10-13-how-altmash-ships-websites-meant-to-sell-not-just-impress",
-    "date": "Oct 2026",
-    "title": "How Altmash ships websites meant to sell, not just impress",
-    "excerpt": "How Altmash ships websites meant to sell, not just impress — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Website Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-13-how-altmash-ships-websites-meant-to-sell-not-just-impress/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 30,
-  "total": 33,
+  "archiveCount": 31,
+  "total": 34,
   "viewMore": "/blog/#archive"
 };
