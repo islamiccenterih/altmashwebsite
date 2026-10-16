@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-17-digital-marketing-systems-beyond-random-posting-and-boosted-ads",
+    "date": "Oct 2026",
+    "title": "Digital marketing systems beyond random posting and boosted ads",
+    "excerpt": "Digital marketing systems beyond random posting and boosted ads — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Digital Marketing",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-17-digital-marketing-systems-beyond-random-posting-and-boosted-ads/"
+  },
+  {
     "id": "2026-10-16-security-and-speed-basics-every-wordpress-brand-site-needs",
     "date": "Oct 2026",
     "title": "Security and speed basics every WordPress brand site needs",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Android App",
     "readTime": "5 min read",
     "href": "/blog/2026-10-15-how-altmash-thinks-about-mobile-product-ux-for-retention/"
-  },
-  {
-    "id": "2026-10-14-how-altmash-structures-shopify-collections-for-ads-and-seo",
-    "date": "Oct 2026",
-    "title": "How Altmash structures Shopify collections for ads and SEO",
-    "excerpt": "How Altmash structures Shopify collections for ads and SEO — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Shopify Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-14-how-altmash-structures-shopify-collections-for-ads-and-seo/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 31,
-  "total": 34,
+  "archiveCount": 32,
+  "total": 35,
   "viewMore": "/blog/#archive"
 };
