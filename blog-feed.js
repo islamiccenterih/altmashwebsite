@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-18-mixing-ugc-and-brand-films-for-sustainable-creative-volume",
+    "date": "Oct 2026",
+    "title": "Mixing UGC and brand films for sustainable creative volume",
+    "excerpt": "Mixing UGC and brand films for sustainable creative volume — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "UGC Ads",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-18-mixing-ugc-and-brand-films-for-sustainable-creative-volume/"
+  },
+  {
     "id": "2026-10-17-digital-marketing-systems-beyond-random-posting-and-boosted-ads",
     "date": "Oct 2026",
     "title": "Digital marketing systems beyond random posting and boosted ads",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "WordPress Development",
     "readTime": "5 min read",
     "href": "/blog/2026-10-16-security-and-speed-basics-every-wordpress-brand-site-needs/"
-  },
-  {
-    "id": "2026-10-15-how-altmash-thinks-about-mobile-product-ux-for-retention",
-    "date": "Oct 2026",
-    "title": "How Altmash thinks about mobile product UX for retention",
-    "excerpt": "How Altmash thinks about mobile product UX for retention — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Android App",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-15-how-altmash-thinks-about-mobile-product-ux-for-retention/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 32,
-  "total": 35,
+  "archiveCount": 33,
+  "total": 36,
   "viewMore": "/blog/#archive"
 };
