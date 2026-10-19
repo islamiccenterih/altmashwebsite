@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-20-lessons-from-building-an-agency-after-freelancing-since-2020",
+    "date": "Oct 2026",
+    "title": "Lessons from building an agency after freelancing since 2020",
+    "excerpt": "Lessons from building an agency after freelancing since 2020 — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Agency",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-20-lessons-from-building-an-agency-after-freelancing-since-2020/"
+  },
+  {
     "id": "2026-10-19-how-altmash-approaches-brand-voice-for-d2c-and-service-businesses",
     "date": "Oct 2026",
     "title": "How Altmash approaches brand voice for D2C and service businesses",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "UGC Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-10-18-mixing-ugc-and-brand-films-for-sustainable-creative-volume/"
-  },
-  {
-    "id": "2026-10-17-digital-marketing-systems-beyond-random-posting-and-boosted-ads",
-    "date": "Oct 2026",
-    "title": "Digital marketing systems beyond random posting and boosted ads",
-    "excerpt": "Digital marketing systems beyond random posting and boosted ads — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Digital Marketing",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-17-digital-marketing-systems-beyond-random-posting-and-boosted-ads/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 34,
-  "total": 37,
+  "archiveCount": 35,
+  "total": 38,
   "viewMore": "/blog/#archive"
 };
