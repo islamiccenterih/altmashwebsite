@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-10-21-audience-fatigue-signals-and-how-to-rotate-creatives-without-panic",
+      "date": "Oct 2026",
+      "title": "Audience fatigue signals and how to rotate creatives without panic",
+      "excerpt": "Audience fatigue signals and how to rotate creatives without panic — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Meta Ads",
+      "readTime": "5 min read",
+      "href": "/blog/2026-10-21-audience-fatigue-signals-and-how-to-rotate-creatives-without-panic/"
+    },
+    {
       "id": "2026-10-20-lessons-from-building-an-agency-after-freelancing-since-2020",
       "date": "Oct 2026",
       "title": "Lessons from building an agency after freelancing since 2020",
@@ -17,18 +26,9 @@
       "tag": "Branding",
       "readTime": "5 min read",
       "href": "/blog/2026-10-19-how-altmash-approaches-brand-voice-for-d2c-and-service-businesses/"
-    },
-    {
-      "id": "2026-10-18-mixing-ugc-and-brand-films-for-sustainable-creative-volume",
-      "date": "Oct 2026",
-      "title": "Mixing UGC and brand films for sustainable creative volume",
-      "excerpt": "Mixing UGC and brand films for sustainable creative volume — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "UGC Ads",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-18-mixing-ugc-and-brand-films-for-sustainable-creative-volume/"
     }
   ],
-  "archiveCount": 35,
-  "total": 38,
+  "archiveCount": 36,
+  "total": 39,
   "viewMore": "/blog/#archive"
 }
