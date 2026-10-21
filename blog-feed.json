@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-10-22-local-and-service-google-ads-city-pages-that-convert-calls",
+      "date": "Oct 2026",
+      "title": "Local and service Google Ads: city pages that convert calls",
+      "excerpt": "Local and service Google Ads: city pages that convert calls — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Google Ads",
+      "readTime": "5 min read",
+      "href": "/blog/2026-10-22-local-and-service-google-ads-city-pages-that-convert-calls/"
+    },
+    {
       "id": "2026-10-21-audience-fatigue-signals-and-how-to-rotate-creatives-without-panic",
       "date": "Oct 2026",
       "title": "Audience fatigue signals and how to rotate creatives without panic",
@@ -17,18 +26,9 @@
       "tag": "Agency",
       "readTime": "5 min read",
       "href": "/blog/2026-10-20-lessons-from-building-an-agency-after-freelancing-since-2020/"
-    },
-    {
-      "id": "2026-10-19-how-altmash-approaches-brand-voice-for-d2c-and-service-businesses",
-      "date": "Oct 2026",
-      "title": "How Altmash approaches brand voice for D2C and service businesses",
-      "excerpt": "How Altmash approaches brand voice for D2C and service businesses — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Branding",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-19-how-altmash-approaches-brand-voice-for-d2c-and-service-businesses/"
     }
   ],
-  "archiveCount": 36,
-  "total": 39,
+  "archiveCount": 37,
+  "total": 40,
   "viewMore": "/blog/#archive"
 }
