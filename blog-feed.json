@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-10-23-pricing-pages-that-reduce-hesitation-without-endless-discounts",
+      "date": "Oct 2026",
+      "title": "Pricing pages that reduce hesitation without endless discounts",
+      "excerpt": "Pricing pages that reduce hesitation without endless discounts — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Sales",
+      "readTime": "5 min read",
+      "href": "/blog/2026-10-23-pricing-pages-that-reduce-hesitation-without-endless-discounts/"
+    },
+    {
       "id": "2026-10-22-local-and-service-google-ads-city-pages-that-convert-calls",
       "date": "Oct 2026",
       "title": "Local and service Google Ads: city pages that convert calls",
@@ -17,18 +26,9 @@
       "tag": "Meta Ads",
       "readTime": "5 min read",
       "href": "/blog/2026-10-21-audience-fatigue-signals-and-how-to-rotate-creatives-without-panic/"
-    },
-    {
-      "id": "2026-10-20-lessons-from-building-an-agency-after-freelancing-since-2020",
-      "date": "Oct 2026",
-      "title": "Lessons from building an agency after freelancing since 2020",
-      "excerpt": "Lessons from building an agency after freelancing since 2020 — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Agency",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-20-lessons-from-building-an-agency-after-freelancing-since-2020/"
     }
   ],
-  "archiveCount": 37,
-  "total": 40,
+  "archiveCount": 38,
+  "total": 41,
   "viewMore": "/blog/#archive"
 }
