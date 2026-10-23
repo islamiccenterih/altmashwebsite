@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-24-content-pillars-that-build-authority-for-agency-owners",
+    "date": "Oct 2026",
+    "title": "Content pillars that build authority for agency owners",
+    "excerpt": "Content pillars that build authority for agency owners — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Personal Brand",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-24-content-pillars-that-build-authority-for-agency-owners/"
+  },
+  {
     "id": "2026-10-23-pricing-pages-that-reduce-hesitation-without-endless-discounts",
     "date": "Oct 2026",
     "title": "Pricing pages that reduce hesitation without endless discounts",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Google Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-10-22-local-and-service-google-ads-city-pages-that-convert-calls/"
-  },
-  {
-    "id": "2026-10-21-audience-fatigue-signals-and-how-to-rotate-creatives-without-panic",
-    "date": "Oct 2026",
-    "title": "Audience fatigue signals and how to rotate creatives without panic",
-    "excerpt": "Audience fatigue signals and how to rotate creatives without panic — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Meta Ads",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-21-audience-fatigue-signals-and-how-to-rotate-creatives-without-panic/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 38,
-  "total": 41,
+  "archiveCount": 39,
+  "total": 42,
   "viewMore": "/blog/#archive"
 };
