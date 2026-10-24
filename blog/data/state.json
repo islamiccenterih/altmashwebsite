@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 6,
+  "categoryIndex": 7,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -42,7 +42,8 @@
     "Audience fatigue signals and how to rotate creatives without panic",
     "Local and service Google Ads: city pages that convert calls",
     "Pricing pages that reduce hesitation without endless discounts",
-    "Content pillars that build authority for agency owners"
+    "Content pillars that build authority for agency owners",
+    "Speed, clarity, mobile UX: the non-negotiables in modern site builds"
   ],
   "usedExamples": [
     "android-fintech",
@@ -82,5 +83,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-24"
+  "lastRun": "2026-10-25"
 }

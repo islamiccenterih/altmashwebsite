@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-25-speed-clarity-mobile-ux-the-non-negotiables-in-modern-site-builds",
+    "date": "Oct 2026",
+    "title": "Speed, clarity, mobile UX: the non-negotiables in modern site builds",
+    "excerpt": "Speed, clarity, mobile UX: the non-negotiables in modern site builds — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Website Development",
+    "readTime": "6 min read",
+    "href": "/blog/2026-10-25-speed-clarity-mobile-ux-the-non-negotiables-in-modern-site-builds/"
+  },
+  {
     "id": "2026-10-24-content-pillars-that-build-authority-for-agency-owners",
     "date": "Oct 2026",
     "title": "Content pillars that build authority for agency owners",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Sales",
     "readTime": "5 min read",
     "href": "/blog/2026-10-23-pricing-pages-that-reduce-hesitation-without-endless-discounts/"
-  },
-  {
-    "id": "2026-10-22-local-and-service-google-ads-city-pages-that-convert-calls",
-    "date": "Oct 2026",
-    "title": "Local and service Google Ads: city pages that convert calls",
-    "excerpt": "Local and service Google Ads: city pages that convert calls — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Google Ads",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-22-local-and-service-google-ads-city-pages-that-convert-calls/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 39,
-  "total": 42,
+  "archiveCount": 40,
+  "total": 43,
   "viewMore": "/blog/#archive"
 };
