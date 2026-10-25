@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-26-checkout-friction-kills-roas-fixes-every-shopify-store-needs",
+    "date": "Oct 2026",
+    "title": "Checkout friction kills ROAS: fixes every Shopify store needs",
+    "excerpt": "Checkout friction kills ROAS: fixes every Shopify store needs — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Shopify Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-26-checkout-friction-kills-roas-fixes-every-shopify-store-needs/"
+  },
+  {
     "id": "2026-10-25-speed-clarity-mobile-ux-the-non-negotiables-in-modern-site-builds",
     "date": "Oct 2026",
     "title": "Speed, clarity, mobile UX: the non-negotiables in modern site builds",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Personal Brand",
     "readTime": "5 min read",
     "href": "/blog/2026-10-24-content-pillars-that-build-authority-for-agency-owners/"
-  },
-  {
-    "id": "2026-10-23-pricing-pages-that-reduce-hesitation-without-endless-discounts",
-    "date": "Oct 2026",
-    "title": "Pricing pages that reduce hesitation without endless discounts",
-    "excerpt": "Pricing pages that reduce hesitation without endless discounts — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Sales",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-23-pricing-pages-that-reduce-hesitation-without-endless-discounts/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 40,
-  "total": 43,
+  "archiveCount": 41,
+  "total": 44,
   "viewMore": "/blog/#archive"
 };
