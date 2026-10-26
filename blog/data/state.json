@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 8,
+  "categoryIndex": 9,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -44,7 +44,8 @@
     "Pricing pages that reduce hesitation without endless discounts",
     "Content pillars that build authority for agency owners",
     "Speed, clarity, mobile UX: the non-negotiables in modern site builds",
-    "Checkout friction kills ROAS: fixes every Shopify store needs"
+    "Checkout friction kills ROAS: fixes every Shopify store needs",
+    "Push notifications without spam: retention tactics that feel useful"
   ],
   "usedExamples": [
     "android-fintech",
@@ -84,5 +85,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-26"
+  "lastRun": "2026-10-27"
 }

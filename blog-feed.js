@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-27-push-notifications-without-spam-retention-tactics-that-feel-useful",
+    "date": "Oct 2026",
+    "title": "Push notifications without spam: retention tactics that feel useful",
+    "excerpt": "Push notifications without spam: retention tactics that feel useful — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Android App",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-27-push-notifications-without-spam-retention-tactics-that-feel-useful/"
+  },
+  {
     "id": "2026-10-26-checkout-friction-kills-roas-fixes-every-shopify-store-needs",
     "date": "Oct 2026",
     "title": "Checkout friction kills ROAS: fixes every Shopify store needs",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Website Development",
     "readTime": "6 min read",
     "href": "/blog/2026-10-25-speed-clarity-mobile-ux-the-non-negotiables-in-modern-site-builds/"
-  },
-  {
-    "id": "2026-10-24-content-pillars-that-build-authority-for-agency-owners",
-    "date": "Oct 2026",
-    "title": "Content pillars that build authority for agency owners",
-    "excerpt": "Content pillars that build authority for agency owners — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Personal Brand",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-24-content-pillars-that-build-authority-for-agency-owners/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 41,
-  "total": 44,
+  "archiveCount": 42,
+  "total": 45,
   "viewMore": "/blog/#archive"
 };
