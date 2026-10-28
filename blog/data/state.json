@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 10,
+  "categoryIndex": 11,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -46,7 +46,8 @@
     "Speed, clarity, mobile UX: the non-negotiables in modern site builds",
     "Checkout friction kills ROAS: fixes every Shopify store needs",
     "Push notifications without spam: retention tactics that feel useful",
-    "Blog architecture on WordPress that supports topical authority"
+    "Blog architecture on WordPress that supports topical authority",
+    "How Altmash connects branding, website, and paid media into one loop"
   ],
   "usedExamples": [
     "android-fintech",
@@ -86,5 +87,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-28"
+  "lastRun": "2026-10-29"
 }

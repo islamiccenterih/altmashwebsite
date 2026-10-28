@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-29-how-altmash-connects-branding-website-and-paid-media-into-one-loop",
+    "date": "Oct 2026",
+    "title": "How Altmash connects branding, website, and paid media into one loop",
+    "excerpt": "How Altmash connects branding, website, and paid media into one loop — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Digital Marketing",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-29-how-altmash-connects-branding-website-and-paid-media-into-one-loop/"
+  },
+  {
     "id": "2026-10-28-blog-architecture-on-wordpress-that-supports-topical-authority",
     "date": "Oct 2026",
     "title": "Blog architecture on WordPress that supports topical authority",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Android App",
     "readTime": "5 min read",
     "href": "/blog/2026-10-27-push-notifications-without-spam-retention-tactics-that-feel-useful/"
-  },
-  {
-    "id": "2026-10-26-checkout-friction-kills-roas-fixes-every-shopify-store-needs",
-    "date": "Oct 2026",
-    "title": "Checkout friction kills ROAS: fixes every Shopify store needs",
-    "excerpt": "Checkout friction kills ROAS: fixes every Shopify store needs — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Shopify Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-26-checkout-friction-kills-roas-fixes-every-shopify-store-needs/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 43,
-  "total": 46,
+  "archiveCount": 44,
+  "total": 47,
   "viewMore": "/blog/#archive"
 };
