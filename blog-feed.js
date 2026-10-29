@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-30-building-a-ugc-library-so-your-ad-account-never-runs-dry",
+    "date": "Oct 2026",
+    "title": "Building a UGC library so your ad account never runs dry",
+    "excerpt": "Building a UGC library so your ad account never runs dry — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "UGC Ads",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-30-building-a-ugc-library-so-your-ad-account-never-runs-dry/"
+  },
+  {
     "id": "2026-10-29-how-altmash-connects-branding-website-and-paid-media-into-one-loop",
     "date": "Oct 2026",
     "title": "How Altmash connects branding, website, and paid media into one loop",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "WordPress Development",
     "readTime": "5 min read",
     "href": "/blog/2026-10-28-blog-architecture-on-wordpress-that-supports-topical-authority/"
-  },
-  {
-    "id": "2026-10-27-push-notifications-without-spam-retention-tactics-that-feel-useful",
-    "date": "Oct 2026",
-    "title": "Push notifications without spam: retention tactics that feel useful",
-    "excerpt": "Push notifications without spam: retention tactics that feel useful — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Android App",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-27-push-notifications-without-spam-retention-tactics-that-feel-useful/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 44,
-  "total": 47,
+  "archiveCount": 45,
+  "total": 48,
   "viewMore": "/blog/#archive"
 };
