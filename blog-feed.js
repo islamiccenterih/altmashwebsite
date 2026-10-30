@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-10-31-brand-positioning-mistakes-that-kill-conversions-before-ads-start",
+    "date": "Oct 2026",
+    "title": "Brand positioning mistakes that kill conversions before ads start",
+    "excerpt": "Brand positioning mistakes that kill conversions before ads start — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Branding",
+    "readTime": "5 min read",
+    "href": "/blog/2026-10-31-brand-positioning-mistakes-that-kill-conversions-before-ads-start/"
+  },
+  {
     "id": "2026-10-30-building-a-ugc-library-so-your-ad-account-never-runs-dry",
     "date": "Oct 2026",
     "title": "Building a UGC library so your ad account never runs dry",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Digital Marketing",
     "readTime": "5 min read",
     "href": "/blog/2026-10-29-how-altmash-connects-branding-website-and-paid-media-into-one-loop/"
-  },
-  {
-    "id": "2026-10-28-blog-architecture-on-wordpress-that-supports-topical-authority",
-    "date": "Oct 2026",
-    "title": "Blog architecture on WordPress that supports topical authority",
-    "excerpt": "Blog architecture on WordPress that supports topical authority — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "WordPress Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-10-28-blog-architecture-on-wordpress-that-supports-topical-authority/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 45,
-  "total": 48,
+  "archiveCount": 46,
+  "total": 49,
   "viewMore": "/blog/#archive"
 };

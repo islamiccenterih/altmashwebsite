@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 0,
+  "categoryIndex": 1,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -48,7 +48,8 @@
     "Push notifications without spam: retention tactics that feel useful",
     "Blog architecture on WordPress that supports topical authority",
     "How Altmash connects branding, website, and paid media into one loop",
-    "Building a UGC library so your ad account never runs dry"
+    "Building a UGC library so your ad account never runs dry",
+    "Brand positioning mistakes that kill conversions before ads start"
   ],
   "usedExamples": [
     "android-fintech",
@@ -88,5 +89,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-10-30"
+  "lastRun": "2026-10-31"
 }
