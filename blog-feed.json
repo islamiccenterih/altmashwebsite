@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-01-what-a-modern-branding-and-marketing-agency-should-own-after-launch",
+      "date": "Nov 2026",
+      "title": "What a modern branding and marketing agency should own after launch",
+      "excerpt": "What a modern branding and marketing agency should own after launch — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Agency",
+      "readTime": "5 min read",
+      "href": "/blog/2026-11-01-what-a-modern-branding-and-marketing-agency-should-own-after-launch/"
+    },
+    {
       "id": "2026-10-31-brand-positioning-mistakes-that-kill-conversions-before-ads-start",
       "date": "Oct 2026",
       "title": "Brand positioning mistakes that kill conversions before ads start",
@@ -17,18 +26,9 @@
       "tag": "UGC Ads",
       "readTime": "5 min read",
       "href": "/blog/2026-10-30-building-a-ugc-library-so-your-ad-account-never-runs-dry/"
-    },
-    {
-      "id": "2026-10-29-how-altmash-connects-branding-website-and-paid-media-into-one-loop",
-      "date": "Oct 2026",
-      "title": "How Altmash connects branding, website, and paid media into one loop",
-      "excerpt": "How Altmash connects branding, website, and paid media into one loop — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Digital Marketing",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-29-how-altmash-connects-branding-website-and-paid-media-into-one-loop/"
     }
   ],
-  "archiveCount": 46,
-  "total": 49,
+  "archiveCount": 47,
+  "total": 50,
   "viewMore": "/blog/#archive"
 }
