@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-02-advantage-catalog-ads-when-they-scale-and-when-they-burn-cash",
+      "date": "Nov 2026",
+      "title": "Advantage+ catalog ads: when they scale and when they burn cash",
+      "excerpt": "Advantage+ catalog ads: when they scale and when they burn cash — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Meta Ads",
+      "readTime": "5 min read",
+      "href": "/blog/2026-11-02-advantage-catalog-ads-when-they-scale-and-when-they-burn-cash/"
+    },
+    {
       "id": "2026-11-01-what-a-modern-branding-and-marketing-agency-should-own-after-launch",
       "date": "Nov 2026",
       "title": "What a modern branding and marketing agency should own after launch",
@@ -17,18 +26,9 @@
       "tag": "Branding",
       "readTime": "5 min read",
       "href": "/blog/2026-10-31-brand-positioning-mistakes-that-kill-conversions-before-ads-start/"
-    },
-    {
-      "id": "2026-10-30-building-a-ugc-library-so-your-ad-account-never-runs-dry",
-      "date": "Oct 2026",
-      "title": "Building a UGC library so your ad account never runs dry",
-      "excerpt": "Building a UGC library so your ad account never runs dry — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "UGC Ads",
-      "readTime": "5 min read",
-      "href": "/blog/2026-10-30-building-a-ugc-library-so-your-ad-account-never-runs-dry/"
     }
   ],
-  "archiveCount": 47,
-  "total": 50,
+  "archiveCount": 48,
+  "total": 51,
   "viewMore": "/blog/#archive"
 }
