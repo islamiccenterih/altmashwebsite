@@ -1,0 +1,141 @@
+{
+  "title": "Negative keywords and query reports: the quiet ROI lever",
+  "primaryKeyword": "Google Ads for small businesses in India",
+  "metaDescription": "Negative keywords and query reports: the quiet ROI lever — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+  "keywords": [
+    "Google Ads for small businesses in India",
+    "Google Ads",
+    "Google Ads India",
+    "Google Ads tips",
+    "Google Ads strategy",
+    "Altmash",
+    "branding agency India"
+  ],
+  "intro": [
+    "Most advice about Google Ads for small businesses in India is either too generic or written by people who have never had to hit a monthly target with it. I am Altmash, and everything in this guide comes from running live brands across fashion, ethnic wear, footwear, perfume and community platforms.",
+    "This guide is written for doers: clear steps, honest trade-offs, realistic budgets for Indian brands and a checklist you can hand to your team today."
+  ],
+  "takeaways": [
+    "Mobile speed is part of your bid.",
+    "Profitable Search first, Performance Max later.",
+    "Review search terms and add negatives weekly.",
+    "Keyword, ad and landing page must answer the same question."
+  ],
+  "sections": [
+    {
+      "heading": "Why Google Ads for small businesses in India matters more than most founders think",
+      "paragraphs": [
+        "Google Ads catches people at the exact moment they search for what you sell. That intent is valuable, but only when the keyword, the ad and the landing page all answer the same question.",
+        "Budgets leak quietly on Google: broad match without negatives, Performance Max fed with weak assets, and landing pages that load slowly on mobile data.",
+        "That is why I never start with tactics. I start by asking what the business needs from Google Ads in the next 90 days, and then build only what serves that goal."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "How to approach Google Ads, step by step",
+      "paragraphs": [
+        "Here is the process I follow. The order matters: each step removes a reason for the next one to fail.",
+        "Give each step a clear owner and a deadline. A plan without owners is just a list of good intentions, and Google Ads punishes good intentions that never ship."
+      ],
+      "bullets": [
+        "Map intent: group keywords into brand, product, problem and competitor themes.",
+        "Build tight campaigns: one theme per ad group, with ads that repeat the searcher's own language.",
+        "Match landing pages: send each theme to a page that answers that exact query above the fold.",
+        "Add negatives weekly: review the search terms report and block irrelevant queries.",
+        "Track real conversions: calls, WhatsApp clicks, form fills and purchases, imported with values.",
+        "Layer Performance Max carefully: only after Search is profitable and your assets and feed are clean."
+      ]
+    },
+    {
+      "heading": "Common Google Ads mistakes to avoid",
+      "paragraphs": [
+        "These are the mistakes I see most often when I audit brands. Each one looks small on its own; together they explain why results stall.",
+        "If you recognise two or more of these in your own business, fix them before adding budget. More spend on a broken system only makes the problem more expensive."
+      ],
+      "bullets": [
+        "Running broad match with no negative keyword list.",
+        "Sending every ad to the homepage.",
+        "Counting page views or button clicks as conversions.",
+        "Starting with Performance Max before Search has shown what converts.",
+        "Ignoring mobile page speed on Indian networks."
+      ]
+    },
+    {
+      "heading": "What is different for brands in India",
+      "paragraphs": [
+        "In India, trust is often built in the chat window. A buyer who messages you on WhatsApp is judging your speed, tone and clarity as much as your product, so Google Ads has to include how your team responds.",
+        "At the same time, trust is local while expectations are global. A buyer in Jaipur or Lucknow compares your experience with the best apps on their phone, so the bar for clarity and speed keeps rising."
+      ],
+      "bullets": []
+    },
+    {
+      "heading": "What you need in place before you start",
+      "paragraphs": [
+        "You do not need expensive software to do this well. This is the stack I usually start with:",
+        "Tools only help when someone owns them. Assign one person to each tool, document the setup, and keep every login in the brand's name rather than a freelancer's personal account."
+      ],
+      "bullets": [
+        "Google Ads with Google Tag or Google Tag Manager",
+        "Google Merchant Center for ecommerce feeds",
+        "Google Search Console for organic query overlap",
+        "PageSpeed Insights for landing page speed",
+        "Looker Studio for a weekly report"
+      ]
+    },
+    {
+      "heading": "The numbers that actually matter for Google Ads",
+      "paragraphs": [
+        "Pick a small set of numbers and review them every week in the same place. I prefer five metrics the whole team understands over a dashboard nobody opens.",
+        "Look at trends over four to eight weeks rather than daily swings, and always tie the numbers back to revenue or qualified leads."
+      ],
+      "bullets": [
+        "Cost per qualified lead or purchase",
+        "Search impression share on core keywords",
+        "Conversion rate by landing page",
+        "Share of relevant queries in the search terms report",
+        "Quality Score on top keywords"
+      ]
+    },
+    {
+      "heading": "A 30-day plan you can start this week",
+      "paragraphs": [
+        "If you want to move quickly, here is how I would sequence the first month.",
+        "At the end of the month you will have real data instead of opinions — and a clear picture of where to invest next."
+      ],
+      "bullets": [
+        "Week 1: Map intent and build tight campaigns.",
+        "Week 2: Match landing pages.",
+        "Week 3: Add negatives weekly and track real conversions.",
+        "Week 4: Layer Performance Max carefully, then review your metrics and decide what to keep."
+      ]
+    }
+  ],
+  "conclusion": [
+    "If you take one thing from this guide, let it be this: Google Ads compounds when it is treated as a system. Fix the inputs, keep a simple scoreboard and give each change enough time to show results.",
+    "If you want help applying this to your brand, message me on WhatsApp. I am Altmash, and I build and run brands end to end — website, identity, ads and the systems that keep them growing."
+  ],
+  "faq": [
+    {
+      "q": "Is Google Ads better than Meta ads?",
+      "a": "They do different jobs. Google captures people already searching, while Meta creates demand among people who were not searching yet. Many brands use Google for high-intent sales and Meta for discovery and retargeting."
+    },
+    {
+      "q": "What is a good conversion rate for Google Ads?",
+      "a": "It depends heavily on industry and offer. Instead of chasing a benchmark, compare landing pages and ad groups inside your own account and keep improving the weakest ones."
+    },
+    {
+      "q": "Should I use Performance Max?",
+      "a": "Use it once Search campaigns convert and your tracking, product feed and creative assets are clean. Performance Max amplifies whatever you give it, including the problems."
+    },
+    {
+      "q": "Can I handle Google Ads myself or should I hire help?",
+      "a": "You can start yourself if you follow a clear process and review the numbers every week. Bring in help when the work starts eating time you should spend on product and sales, or when results plateau and you cannot see why."
+    },
+    {
+      "q": "How does Google Ads connect with SEO?",
+      "a": "Clear structure, useful content and fast, focused pages help both search rankings and conversions. The same discipline that makes Google Ads perform usually makes your brand easier to find as well."
+    }
+  ],
+  "source": "local",
+  "generatedAt": "2026-11-03T01:26:30.752Z"
+}
