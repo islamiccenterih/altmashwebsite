@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-06-information-architecture-mistakes-that-quietly-destroy-brand-trust",
+      "date": "Nov 2026",
+      "title": "Information architecture mistakes that quietly destroy brand trust",
+      "excerpt": "Information architecture mistakes that quietly destroy brand trust — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Website Development",
+      "readTime": "6 min read",
+      "href": "/blog/2026-11-06-information-architecture-mistakes-that-quietly-destroy-brand-trust/"
+    },
+    {
       "id": "2026-11-05-building-a-personal-brand-across-instagram-and-your-own-website",
       "date": "Nov 2026",
       "title": "Building a personal brand across Instagram and your own website",
@@ -17,18 +26,9 @@
       "tag": "Sales",
       "readTime": "5 min read",
       "href": "/blog/2026-11-04-how-altmash-connects-website-ctas-to-real-sales-conversations/"
-    },
-    {
-      "id": "2026-11-03-negative-keywords-and-query-reports-the-quiet-roi-lever",
-      "date": "Nov 2026",
-      "title": "Negative keywords and query reports: the quiet ROI lever",
-      "excerpt": "Negative keywords and query reports: the quiet ROI lever — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Google Ads",
-      "readTime": "5 min read",
-      "href": "/blog/2026-11-03-negative-keywords-and-query-reports-the-quiet-roi-lever/"
     }
   ],
-  "archiveCount": 51,
-  "total": 54,
+  "archiveCount": 52,
+  "total": 55,
   "viewMore": "/blog/#archive"
 }
