@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-07-theme-customizations-that-raise-aov-without-slowing-the-store",
+      "date": "Nov 2026",
+      "title": "Theme customizations that raise AOV without slowing the store",
+      "excerpt": "Theme customizations that raise AOV without slowing the store — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Shopify Development",
+      "readTime": "5 min read",
+      "href": "/blog/2026-11-07-theme-customizations-that-raise-aov-without-slowing-the-store/"
+    },
+    {
       "id": "2026-11-06-information-architecture-mistakes-that-quietly-destroy-brand-trust",
       "date": "Nov 2026",
       "title": "Information architecture mistakes that quietly destroy brand trust",
@@ -17,18 +26,9 @@
       "tag": "Personal Brand",
       "readTime": "5 min read",
       "href": "/blog/2026-11-05-building-a-personal-brand-across-instagram-and-your-own-website/"
-    },
-    {
-      "id": "2026-11-04-how-altmash-connects-website-ctas-to-real-sales-conversations",
-      "date": "Nov 2026",
-      "title": "How Altmash connects website CTAs to real sales conversations",
-      "excerpt": "How Altmash connects website CTAs to real sales conversations — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Sales",
-      "readTime": "5 min read",
-      "href": "/blog/2026-11-04-how-altmash-connects-website-ctas-to-real-sales-conversations/"
     }
   ],
-  "archiveCount": 52,
-  "total": 55,
+  "archiveCount": 53,
+  "total": 56,
   "viewMore": "/blog/#archive"
 }
