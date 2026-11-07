@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-08-when-a-business-needs-an-android-app-vs-a-fast-mobile-website",
+      "date": "Nov 2026",
+      "title": "When a business needs an Android app vs a fast mobile website",
+      "excerpt": "When a business needs an Android app vs a fast mobile website — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Android App",
+      "readTime": "5 min read",
+      "href": "/blog/2026-11-08-when-a-business-needs-an-android-app-vs-a-fast-mobile-website/"
+    },
+    {
       "id": "2026-11-07-theme-customizations-that-raise-aov-without-slowing-the-store",
       "date": "Nov 2026",
       "title": "Theme customizations that raise AOV without slowing the store",
@@ -17,18 +26,9 @@
       "tag": "Website Development",
       "readTime": "6 min read",
       "href": "/blog/2026-11-06-information-architecture-mistakes-that-quietly-destroy-brand-trust/"
-    },
-    {
-      "id": "2026-11-05-building-a-personal-brand-across-instagram-and-your-own-website",
-      "date": "Nov 2026",
-      "title": "Building a personal brand across Instagram and your own website",
-      "excerpt": "Building a personal brand across Instagram and your own website — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Personal Brand",
-      "readTime": "5 min read",
-      "href": "/blog/2026-11-05-building-a-personal-brand-across-instagram-and-your-own-website/"
     }
   ],
-  "archiveCount": 53,
-  "total": 56,
+  "archiveCount": 54,
+  "total": 57,
   "viewMore": "/blog/#archive"
 }
