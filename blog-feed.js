@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-09-core-web-vitals-and-wordpress-practical-fixes-that-help-rankings",
+    "date": "Nov 2026",
+    "title": "Core Web Vitals and WordPress: practical fixes that help rankings",
+    "excerpt": "Core Web Vitals and WordPress: practical fixes that help rankings — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "WordPress Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-09-core-web-vitals-and-wordpress-practical-fixes-that-help-rankings/"
+  },
+  {
     "id": "2026-11-08-when-a-business-needs-an-android-app-vs-a-fast-mobile-website",
     "date": "Nov 2026",
     "title": "When a business needs an Android app vs a fast mobile website",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Shopify Development",
     "readTime": "5 min read",
     "href": "/blog/2026-11-07-theme-customizations-that-raise-aov-without-slowing-the-store/"
-  },
-  {
-    "id": "2026-11-06-information-architecture-mistakes-that-quietly-destroy-brand-trust",
-    "date": "Nov 2026",
-    "title": "Information architecture mistakes that quietly destroy brand trust",
-    "excerpt": "Information architecture mistakes that quietly destroy brand trust — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Website Development",
-    "readTime": "6 min read",
-    "href": "/blog/2026-11-06-information-architecture-mistakes-that-quietly-destroy-brand-trust/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 54,
-  "total": 57,
+  "archiveCount": 55,
+  "total": 58,
   "viewMore": "/blog/#archive"
 };
