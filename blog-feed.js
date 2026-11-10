@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-11-ugc-hooks-demos-and-ctas-a-testing-board-altmash-uses",
+    "date": "Nov 2026",
+    "title": "UGC hooks, demos, and CTAs: a testing board Altmash uses",
+    "excerpt": "UGC hooks, demos, and CTAs: a testing board Altmash uses — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "UGC Ads",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-11-ugc-hooks-demos-and-ctas-a-testing-board-altmash-uses/"
+  },
+  {
     "id": "2026-11-10-building-a-digital-marketing-calendar-your-team-will-actually-follow",
     "date": "Nov 2026",
     "title": "Building a digital marketing calendar your team will actually follow",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "WordPress Development",
     "readTime": "5 min read",
     "href": "/blog/2026-11-09-core-web-vitals-and-wordpress-practical-fixes-that-help-rankings/"
-  },
-  {
-    "id": "2026-11-08-when-a-business-needs-an-android-app-vs-a-fast-mobile-website",
-    "date": "Nov 2026",
-    "title": "When a business needs an Android app vs a fast mobile website",
-    "excerpt": "When a business needs an Android app vs a fast mobile website — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Android App",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-08-when-a-business-needs-an-android-app-vs-a-fast-mobile-website/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 56,
-  "total": 59,
+  "archiveCount": 57,
+  "total": 60,
   "viewMore": "/blog/#archive"
 };
