@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 0,
+  "categoryIndex": 1,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -60,7 +60,8 @@
     "When a business needs an Android app vs a fast mobile website",
     "Core Web Vitals and WordPress: practical fixes that help rankings",
     "Building a digital marketing calendar your team will actually follow",
-    "UGC hooks, demos, and CTAs: a testing board Altmash uses"
+    "UGC hooks, demos, and CTAs: a testing board Altmash uses",
+    "The difference between a logo and a brand system operators actually use"
   ],
   "usedExamples": [
     "android-fintech",
@@ -100,5 +101,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-11-11"
+  "lastRun": "2026-11-12"
 }
