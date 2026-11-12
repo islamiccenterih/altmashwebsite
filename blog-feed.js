@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-13-the-weekly-operating-rhythm-every-growth-agency-needs",
+    "date": "Nov 2026",
+    "title": "The weekly operating rhythm every growth agency needs",
+    "excerpt": "The weekly operating rhythm every growth agency needs — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Agency",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-13-the-weekly-operating-rhythm-every-growth-agency-needs/"
+  },
+  {
     "id": "2026-11-12-the-difference-between-a-logo-and-a-brand-system-operators-actually-use",
     "date": "Nov 2026",
     "title": "The difference between a logo and a brand system operators actually use",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "UGC Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-11-11-ugc-hooks-demos-and-ctas-a-testing-board-altmash-uses/"
-  },
-  {
-    "id": "2026-11-10-building-a-digital-marketing-calendar-your-team-will-actually-follow",
-    "date": "Nov 2026",
-    "title": "Building a digital marketing calendar your team will actually follow",
-    "excerpt": "Building a digital marketing calendar your team will actually follow — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Digital Marketing",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-10-building-a-digital-marketing-calendar-your-team-will-actually-follow/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 58,
-  "total": 61,
+  "archiveCount": 59,
+  "total": 62,
   "viewMore": "/blog/#archive"
 };
