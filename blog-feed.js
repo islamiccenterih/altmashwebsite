@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-15-google-search-ads-for-high-intent-buyers-structure-that-actually-ranks-spend",
+    "date": "Nov 2026",
+    "title": "Google Search ads for high-intent buyers: structure that actually ranks spend",
+    "excerpt": "Google Search ads for high-intent buyers: structure that actually ranks spend: steps, mistakes to avoid and a 30-day plan from Altmash.",
+    "tag": "Google Ads",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-15-google-search-ads-for-high-intent-buyers-structure-that-actually-ranks-spend/"
+  },
+  {
     "id": "2026-11-14-meta-ads-creative-testing-framework-for-d2c-brands-in-india",
     "date": "Nov 2026",
     "title": "Meta Ads creative testing framework for D2C brands in India",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Agency",
     "readTime": "5 min read",
     "href": "/blog/2026-11-13-the-weekly-operating-rhythm-every-growth-agency-needs/"
-  },
-  {
-    "id": "2026-11-12-the-difference-between-a-logo-and-a-brand-system-operators-actually-use",
-    "date": "Nov 2026",
-    "title": "The difference between a logo and a brand system operators actually use",
-    "excerpt": "The difference between a logo and a brand system operators actually use: steps, mistakes to avoid and a 30-day plan from Altmash.",
-    "tag": "Branding",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-12-the-difference-between-a-logo-and-a-brand-system-operators-actually-use/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 60,
-  "total": 63,
+  "archiveCount": 61,
+  "total": 64,
   "viewMore": "/blog/#archive"
 };
