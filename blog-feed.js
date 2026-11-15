@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-16-offer-design-before-traffic-the-sales-lesson-most-founders-skip",
+    "date": "Nov 2026",
+    "title": "Offer design before traffic: the sales lesson most founders skip",
+    "excerpt": "Offer design before traffic: the sales lesson most founders skip — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Sales",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-16-offer-design-before-traffic-the-sales-lesson-most-founders-skip/"
+  },
+  {
     "id": "2026-11-15-google-search-ads-for-high-intent-buyers-structure-that-actually-ranks-spend",
     "date": "Nov 2026",
     "title": "Google Search ads for high-intent buyers: structure that actually ranks spend",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Meta Ads",
     "readTime": "6 min read",
     "href": "/blog/2026-11-14-meta-ads-creative-testing-framework-for-d2c-brands-in-india/"
-  },
-  {
-    "id": "2026-11-13-the-weekly-operating-rhythm-every-growth-agency-needs",
-    "date": "Nov 2026",
-    "title": "The weekly operating rhythm every growth agency needs",
-    "excerpt": "The weekly operating rhythm every growth agency needs — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Agency",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-13-the-weekly-operating-rhythm-every-growth-agency-needs/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 61,
-  "total": 64,
+  "archiveCount": 62,
+  "total": 65,
   "viewMore": "/blog/#archive"
 };
