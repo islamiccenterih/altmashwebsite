@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-18-when-to-rebuild-vs-when-to-fix-your-current-website",
+      "date": "Nov 2026",
+      "title": "When to rebuild vs when to fix your current website",
+      "excerpt": "When to rebuild vs when to fix your current website — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Website Development",
+      "readTime": "5 min read",
+      "href": "/blog/2026-11-18-when-to-rebuild-vs-when-to-fix-your-current-website/"
+    },
+    {
       "id": "2026-11-17-personal-branding-for-founders-who-want-inbound-not-vanity-followers",
       "date": "Nov 2026",
       "title": "Personal branding for founders who want inbound, not vanity followers",
@@ -17,18 +26,9 @@
       "tag": "Sales",
       "readTime": "5 min read",
       "href": "/blog/2026-11-16-offer-design-before-traffic-the-sales-lesson-most-founders-skip/"
-    },
-    {
-      "id": "2026-11-15-google-search-ads-for-high-intent-buyers-structure-that-actually-ranks-spend",
-      "date": "Nov 2026",
-      "title": "Google Search ads for high-intent buyers: structure that actually ranks spend",
-      "excerpt": "Google Search ads for high-intent buyers: structure that actually ranks spend: steps, mistakes to avoid and a 30-day plan from Altmash.",
-      "tag": "Google Ads",
-      "readTime": "5 min read",
-      "href": "/blog/2026-11-15-google-search-ads-for-high-intent-buyers-structure-that-actually-ranks-spend/"
     }
   ],
-  "archiveCount": 63,
-  "total": 66,
+  "archiveCount": 64,
+  "total": 67,
   "viewMore": "/blog/#archive"
 }
