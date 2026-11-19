@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-19-product-page-storytelling-that-helps-meta-and-google-traffic-convert",
+    "date": "Nov 2026",
+    "title": "Product page storytelling that helps Meta and Google traffic convert",
+    "excerpt": "Product page storytelling that helps Meta and Google traffic convert — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Shopify Development",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-19-product-page-storytelling-that-helps-meta-and-google-traffic-convert/"
+  },
+  {
     "id": "2026-11-18-when-to-rebuild-vs-when-to-fix-your-current-website",
     "date": "Nov 2026",
     "title": "When to rebuild vs when to fix your current website",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Personal Brand",
     "readTime": "5 min read",
     "href": "/blog/2026-11-17-personal-branding-for-founders-who-want-inbound-not-vanity-followers/"
-  },
-  {
-    "id": "2026-11-16-offer-design-before-traffic-the-sales-lesson-most-founders-skip",
-    "date": "Nov 2026",
-    "title": "Offer design before traffic: the sales lesson most founders skip",
-    "excerpt": "Offer design before traffic: the sales lesson most founders skip — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Sales",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-16-offer-design-before-traffic-the-sales-lesson-most-founders-skip/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 64,
-  "total": 67,
+  "archiveCount": 65,
+  "total": 68,
   "viewMore": "/blog/#archive"
 };
