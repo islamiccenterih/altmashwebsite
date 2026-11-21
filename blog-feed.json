@@ -1,6 +1,15 @@
 {
   "latest": [
     {
+      "id": "2026-11-22-full-funnel-digital-marketing-for-brands-that-also-sell-offline",
+      "date": "Nov 2026",
+      "title": "Full-funnel digital marketing for brands that also sell offline",
+      "excerpt": "Full-funnel digital marketing for brands that also sell offline — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+      "tag": "Digital Marketing",
+      "readTime": "5 min read",
+      "href": "/blog/2026-11-22-full-funnel-digital-marketing-for-brands-that-also-sell-offline/"
+    },
+    {
       "id": "2026-11-21-wordpress-development-for-seo-structure-before-plugins",
       "date": "Nov 2026",
       "title": "WordPress development for SEO: structure before plugins",
@@ -17,18 +26,9 @@
       "tag": "Android App",
       "readTime": "5 min read",
       "href": "/blog/2026-11-20-connecting-android-apps-to-meta-and-google-acquisition-cleanly/"
-    },
-    {
-      "id": "2026-11-19-product-page-storytelling-that-helps-meta-and-google-traffic-convert",
-      "date": "Nov 2026",
-      "title": "Product page storytelling that helps Meta and Google traffic convert",
-      "excerpt": "Product page storytelling that helps Meta and Google traffic convert — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-      "tag": "Shopify Development",
-      "readTime": "5 min read",
-      "href": "/blog/2026-11-19-product-page-storytelling-that-helps-meta-and-google-traffic-convert/"
     }
   ],
-  "archiveCount": 67,
-  "total": 70,
+  "archiveCount": 68,
+  "total": 71,
   "viewMore": "/blog/#archive"
 }
