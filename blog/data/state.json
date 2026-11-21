@@ -1,5 +1,5 @@
 {
-  "categoryIndex": 9,
+  "categoryIndex": 10,
   "usedTitles": [
     "Visual identity checklist before you spend on Meta or Google Ads",
     "How to brief an agency so branding and ads stay aligned",
@@ -69,7 +69,8 @@
     "Personal branding for founders who want inbound, not vanity followers",
     "When to rebuild vs when to fix your current website",
     "Product page storytelling that helps Meta and Google traffic convert",
-    "Connecting Android apps to Meta and Google acquisition cleanly"
+    "Connecting Android apps to Meta and Google acquisition cleanly",
+    "WordPress development for SEO: structure before plugins"
   ],
   "usedExamples": [
     "android-fintech",
@@ -109,5 +110,5 @@
     "islamic-center-hub",
     "insane-look-drop"
   ],
-  "lastRun": "2026-11-20"
+  "lastRun": "2026-11-21"
 }
