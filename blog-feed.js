@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-24-brand-identity-for-indian-d2c-brands-a-practical-playbook-for-2026",
+    "date": "Nov 2026",
+    "title": "Brand identity for Indian D2C brands: a practical playbook for 2026",
+    "excerpt": "Brand identity for Indian D2C brands: a practical playbook for 2026 — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Branding",
+    "readTime": "6 min read",
+    "href": "/blog/2026-11-24-brand-identity-for-indian-d2c-brands-a-practical-playbook-for-2026/"
+  },
+  {
     "id": "2026-11-23-how-to-brief-creators-for-meta-ugc-without-killing-authenticity",
     "date": "Nov 2026",
     "title": "How to brief creators for Meta UGC without killing authenticity",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Digital Marketing",
     "readTime": "5 min read",
     "href": "/blog/2026-11-22-full-funnel-digital-marketing-for-brands-that-also-sell-offline/"
-  },
-  {
-    "id": "2026-11-21-wordpress-development-for-seo-structure-before-plugins",
-    "date": "Nov 2026",
-    "title": "WordPress development for SEO: structure before plugins",
-    "excerpt": "WordPress development for SEO: structure before plugins — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "WordPress Development",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-21-wordpress-development-for-seo-structure-before-plugins/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 69,
-  "total": 72,
+  "archiveCount": 70,
+  "total": 73,
   "viewMore": "/blog/#archive"
 };
