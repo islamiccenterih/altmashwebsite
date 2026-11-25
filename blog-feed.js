@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-25-agency-in-2026-what-still-works-in-india",
+    "date": "Nov 2026",
+    "title": "Agency in 2026: what still works in India",
+    "excerpt": "Agency in 2026: what still works in India — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Agency",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-25-agency-in-2026-what-still-works-in-india/"
+  },
+  {
     "id": "2026-11-24-brand-identity-for-indian-d2c-brands-a-practical-playbook-for-2026",
     "date": "Nov 2026",
     "title": "Brand identity for Indian D2C brands: a practical playbook for 2026",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "UGC Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-11-23-how-to-brief-creators-for-meta-ugc-without-killing-authenticity/"
-  },
-  {
-    "id": "2026-11-22-full-funnel-digital-marketing-for-brands-that-also-sell-offline",
-    "date": "Nov 2026",
-    "title": "Full-funnel digital marketing for brands that also sell offline",
-    "excerpt": "Full-funnel digital marketing for brands that also sell offline — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Digital Marketing",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-22-full-funnel-digital-marketing-for-brands-that-also-sell-offline/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 70,
-  "total": 73,
+  "archiveCount": 71,
+  "total": 74,
   "viewMore": "/blog/#archive"
 };
