@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-27-a-google-ads-checklist-before-you-spend-another-rupee",
+    "date": "Nov 2026",
+    "title": "A Google Ads checklist before you spend another rupee",
+    "excerpt": "A Google Ads checklist before you spend another rupee — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
+    "tag": "Google Ads",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-27-a-google-ads-checklist-before-you-spend-another-rupee/"
+  },
+  {
     "id": "2026-11-26-the-meta-ads-system-i-use-for-brands-i-manage",
     "date": "Nov 2026",
     "title": "The Meta ads system I use for brands I manage",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Agency",
     "readTime": "5 min read",
     "href": "/blog/2026-11-25-agency-in-2026-what-still-works-in-india/"
-  },
-  {
-    "id": "2026-11-24-brand-identity-for-indian-d2c-brands-a-practical-playbook-for-2026",
-    "date": "Nov 2026",
-    "title": "Brand identity for Indian D2C brands: a practical playbook for 2026",
-    "excerpt": "Brand identity for Indian D2C brands: a practical playbook for 2026 — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Branding",
-    "readTime": "6 min read",
-    "href": "/blog/2026-11-24-brand-identity-for-indian-d2c-brands-a-practical-playbook-for-2026/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 72,
-  "total": 75,
+  "archiveCount": 73,
+  "total": 76,
   "viewMore": "/blog/#archive"
 };
