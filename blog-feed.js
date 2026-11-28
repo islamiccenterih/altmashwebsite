@@ -1,5 +1,14 @@
 window.BLOG_FEED = [
   {
+    "id": "2026-11-28-sales-process-for-small-businesses-in-india-a-practical-playbook-for-2026",
+    "date": "Nov 2026",
+    "title": "Sales process for small businesses in India: a practical playbook for 2026",
+    "excerpt": "Sales process for small businesses in India: a practical playbook for 2026: steps, mistakes to avoid and a 30-day plan from Altmash.",
+    "tag": "Sales",
+    "readTime": "5 min read",
+    "href": "/blog/2026-11-28-sales-process-for-small-businesses-in-india-a-practical-playbook-for-2026/"
+  },
+  {
     "id": "2026-11-27-a-google-ads-checklist-before-you-spend-another-rupee",
     "date": "Nov 2026",
     "title": "A Google Ads checklist before you spend another rupee",
@@ -16,19 +25,10 @@ window.BLOG_FEED = [
     "tag": "Meta Ads",
     "readTime": "5 min read",
     "href": "/blog/2026-11-26-the-meta-ads-system-i-use-for-brands-i-manage/"
-  },
-  {
-    "id": "2026-11-25-agency-in-2026-what-still-works-in-india",
-    "date": "Nov 2026",
-    "title": "Agency in 2026: what still works in India",
-    "excerpt": "Agency in 2026: what still works in India — Altmash's practical guide with steps, mistakes to avoid, key metrics and a 30-day plan.",
-    "tag": "Agency",
-    "readTime": "5 min read",
-    "href": "/blog/2026-11-25-agency-in-2026-what-still-works-in-india/"
   }
 ];
 window.BLOG_META = {
-  "archiveCount": 73,
-  "total": 76,
+  "archiveCount": 74,
+  "total": 77,
   "viewMore": "/blog/#archive"
 };
